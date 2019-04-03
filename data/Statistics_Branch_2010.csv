@@ -1,0 +1,360 @@
+P00M,Name of Library,Arlington Hills Branch Library
+P00Mb,Reg./Sequence Number,M0803
+P01M,Population of the Legal Service Area,"27,323"
+P02aM,Registered Borrowers - Residents,"13,483"
+P02bM,Registered Borrowers - Reciprocal,"1,025"
+P02cM,Total Registered Borrowers (Manually Input),"14,508"
+P04M,Library Visits,"101,417"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"5,096"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"20,677"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"34,801"
+P16M,Children's Library Programs,117
+P17M,Children's Program Attendance,"2,336"
+P18M,Yound Adult Library Programs,27
+P19M,Young Adult Program Attendance,532
+P20M,Adult Circulation,"32,713"
+P21M,Adult Library Programs,96
+P22M,Adult Program Attendance,898
+P23M,Other Circulation,0
+P24M,Total Circulation,"67,514"
+P00M,Name of Library,Dayton's Bluff Branch Library
+P00Mb,Reg./Sequence Number,M0814
+P01M,Population of the Legal Service Area,"14,833"
+P02aM,Registered Borrowers - Residents,"8,229"
+P02bM,Registered Borrowers - Reciprocal,"2,442"
+P02cM,Total Registered Borrowers (Manually Input),"10,671"
+P04M,Library Visits,"140,339"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"37,882"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"23,389"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"40,089"
+P16M,Children's Library Programs,208
+P17M,Children's Program Attendance,"6,482"
+P18M,Yound Adult Library Programs,20
+P19M,Young Adult Program Attendance,370
+P20M,Adult Circulation,"46,290"
+P21M,Adult Library Programs,133
+P22M,Adult Program Attendance,"1,393"
+P23M,Other Circulation,0
+P24M,Total Circulation,"86,379"
+P00M,Name of Library,Hamline Midway Branch Library
+P00Mb,Reg./Sequence Number,M0805
+P01M,Population of the Legal Service Area,"16,122"
+P02aM,Registered Borrowers - Residents,"8,595"
+P02bM,Registered Borrowers - Reciprocal,"1,389"
+P02cM,Total Registered Borrowers (Manually Input),"9,984"
+P04M,Library Visits,"115,142"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"11,908"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"18,106"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"53,163"
+P16M,Children's Library Programs,117
+P17M,Children's Program Attendance,"2,845"
+P18M,Yound Adult Library Programs,8
+P19M,Young Adult Program Attendance,169
+P20M,Adult Circulation,"60,774"
+P21M,Adult Library Programs,75
+P22M,Adult Program Attendance,910
+P23M,Other Circulation,0
+P24M,Total Circulation,"113,937"
+P00M,Name of Library,Hayden Heights Branch Library
+P00Mb,Reg./Sequence Number,M0806
+P01M,Population of the Legal Service Area,"28,050"
+P02aM,Registered Borrowers - Residents,"18,017"
+P02bM,Registered Borrowers - Reciprocal,"4,720"
+P02cM,Total Registered Borrowers (Manually Input),"22,737"
+P04M,Library Visits,"109,641"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"18,668"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"22,490"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"61,576"
+P16M,Children's Library Programs,97
+P17M,Children's Program Attendance,"2,036"
+P18M,Yound Adult Library Programs,13
+P19M,Young Adult Program Attendance,401
+P20M,Adult Circulation,"66,976"
+P21M,Adult Library Programs,63
+P22M,Adult Program Attendance,759
+P23M,Other Circulation,0
+P24M,Total Circulation,"128,552"
+P00M,Name of Library,Highland Branch Library
+P00Mb,Reg./Sequence Number,M0807
+P01M,Population of the Legal Service Area,"37,077"
+P02aM,Registered Borrowers - Residents,"29,783"
+P02bM,Registered Borrowers - Reciprocal,"7,467"
+P02cM,Total Registered Borrowers (Manually Input),"37,250"
+P04M,Library Visits,"304,906"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"77,584"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"48,812"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"222,057"
+P16M,Children's Library Programs,57
+P17M,Children's Program Attendance,"2,530"
+P18M,Yound Adult Library Programs,1
+P19M,Young Adult Program Attendance,44
+P20M,Adult Circulation,"317,914"
+P21M,Adult Library Programs,42
+P22M,Adult Program Attendance,487
+P23M,Other Circulation,0
+P24M,Total Circulation,"539,971"
+P00M,Name of Library,Merriam Park Branch Library
+P00Mb,Reg./Sequence Number,M0809
+P01M,Population of the Legal Service Area,"29,096"
+P02aM,Registered Borrowers - Residents,"20,162"
+P02bM,Registered Borrowers - Reciprocal,"5,334"
+P02cM,Total Registered Borrowers (Manually Input),"25,496"
+P04M,Library Visits,"208,081"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"29,952"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"30,490"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"147,407"
+P16M,Children's Library Programs,103
+P17M,Children's Program Attendance,"3,801"
+P18M,Yound Adult Library Programs,13
+P19M,Young Adult Program Attendance,167
+P20M,Adult Circulation,"263,512"
+P21M,Adult Library Programs,31
+P22M,Adult Program Attendance,559
+P23M,Other Circulation,0
+P24M,Total Circulation,"410,919"
+P00M,Name of Library,Rice Street Branch Library
+P00Mb,Reg./Sequence Number,M0810
+P01M,Population of the Legal Service Area,"27,466"
+P02aM,Registered Borrowers - Residents,"17,937"
+P02bM,Registered Borrowers - Reciprocal,"2,994"
+P02cM,Total Registered Borrowers (Manually Input),"20,931"
+P04M,Library Visits,"271,351"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"17,472"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"49,475"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"58,877"
+P16M,Children's Library Programs,185
+P17M,Children's Program Attendance,"2,788"
+P18M,Yound Adult Library Programs,66
+P19M,Young Adult Program Attendance,575
+P20M,Adult Circulation,"71,100"
+P21M,Adult Library Programs,104
+P22M,Adult Program Attendance,850
+P23M,Other Circulation,0
+P24M,Total Circulation,"129,977"
+P00M,Name of Library,Riverview Branch Library
+P00Mb,Reg./Sequence Number,M0811
+P01M,Population of the Legal Service Area,"15,083"
+P02aM,Registered Borrowers - Residents,"11,202"
+P02bM,Registered Borrowers - Reciprocal,"1,715"
+P02cM,Total Registered Borrowers (Manually Input),"12,917"
+P04M,Library Visits,"88,064"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"8,268"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"12,941"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"38,352"
+P16M,Children's Library Programs,137
+P17M,Children's Program Attendance,"2,908"
+P18M,Yound Adult Library Programs,14
+P19M,Young Adult Program Attendance,133
+P20M,Adult Circulation,"37,292"
+P21M,Adult Library Programs,46
+P22M,Adult Program Attendance,333
+P23M,Other Circulation,0
+P24M,Total Circulation,"75,644"
+P00M,Name of Library,St. Anthony Park Branch Library
+P00Mb,Reg./Sequence Number,M0812
+P01M,Population of the Legal Service Area,"9,014"
+P02aM,Registered Borrowers - Residents,"8,956"
+P02bM,Registered Borrowers - Reciprocal,"6,535"
+P02cM,Total Registered Borrowers (Manually Input),"15,491"
+P04M,Library Visits,"134,989"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"23,920"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"12,222"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"115,622"
+P16M,Children's Library Programs,146
+P17M,Children's Program Attendance,"6,304"
+P18M,Yound Adult Library Programs,3
+P19M,Young Adult Program Attendance,135
+P20M,Adult Circulation,"105,434"
+P21M,Adult Library Programs,58
+P22M,Adult Program Attendance,"1,029"
+P23M,Other Circulation,0
+P24M,Total Circulation,"221,056"
+P00M,Name of Library,St. Paul Bookmobile
+P00Mb,Reg./Sequence Number,M0802
+P01M,Population of the Legal Service Area,n.c.
+P02aM,Registered Borrowers - Residents,"9,097"
+P02bM,Registered Borrowers - Reciprocal,303
+P02cM,Total Registered Borrowers (Manually Input),"9,400"
+P04M,Library Visits,"139,369"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"38,870"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,14
+P09M,Users of Public Internet Computers,0
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,
+P15M,Children's Circulation,"72,712"
+P16M,Children's Library Programs,18
+P17M,Children's Program Attendance,"17,426"
+P18M,Yound Adult Library Programs,0
+P19M,Young Adult Program Attendance,0
+P20M,Adult Circulation,"41,891"
+P21M,Adult Library Programs,2
+P22M,Adult Program Attendance,600
+P23M,Other Circulation,0
+P24M,Total Circulation,"114,603"
+P00M,Name of Library,Rondo Community Outreach Library
+P00Mb,Reg./Sequence Number,M0817
+P01M,Population of the Legal Service Area,"32,082"
+P02aM,Registered Borrowers - Residents,"33,278"
+P02bM,Registered Borrowers - Reciprocal,"7,310"
+P02cM,Total Registered Borrowers (Manually Input),"40,588"
+P04M,Library Visits,"445,480"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"74,984"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"75,481"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"97,024"
+P16M,Children's Library Programs,288
+P17M,Children's Program Attendance,"6,975"
+P18M,Yound Adult Library Programs,27
+P19M,Young Adult Program Attendance,319
+P20M,Adult Circulation,"126,781"
+P21M,Adult Library Programs,459
+P22M,Adult Program Attendance,"7,002"
+P23M,Other Circulation,0
+P24M,Total Circulation,"223,805"
+P00M,Name of Library,St. Paul Public Library - Central
+P00Mb,Reg./Sequence Number,M0804
+P01M,Population of the Legal Service Area,"17,423"
+P02aM,Registered Borrowers - Residents,"44,929"
+P02bM,Registered Borrowers - Reciprocal,"26,135"
+P02cM,Total Registered Borrowers (Manually Input),"71,064"
+P04M,Library Visits,"288,438"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"111,283"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,1
+P09M,Users of Public Internet Computers,"47,039"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"82,515"
+P16M,Children's Library Programs,297
+P17M,Children's Program Attendance,"10,472"
+P18M,Yound Adult Library Programs,156
+P19M,Young Adult Program Attendance,"2,641"
+P20M,Adult Circulation,"178,806"
+P21M,Adult Library Programs,340
+P22M,Adult Program Attendance,"5,395"
+P23M,Other Circulation,0
+P24M,Total Circulation,"261,321"
+P00M,Name of Library,St. Paul Public Library - Office
+P00Mb,Reg./Sequence Number,M0818
+P01M,Population of the Legal Service Area,n.c.
+P02aM,Registered Borrowers - Residents,"2,066"
+P02bM,Registered Borrowers - Reciprocal,623
+P02cM,Total Registered Borrowers (Manually Input),"2,689"
+P04M,Library Visits,n.c.
+P05M,Actual Tally/Sample,
+P06M,Reference Transactions,n.c.
+P07M,Actual Tally/Sample,
+P08M,Stations,0
+P09M,Users of Public Internet Computers,0
+P10M,Actual Tally/Sample,
+P11M,Users of Public Internet Computers Universe,
+P15M,Children's Circulation,"172,048"
+P16M,Children's Library Programs,0
+P17M,Children's Program Attendance,0
+P18M,Yound Adult Library Programs,0
+P19M,Young Adult Program Attendance,0
+P20M,Adult Circulation,"333,547"
+P21M,Adult Library Programs,0
+P22M,Adult Program Attendance,0
+P23M,Other Circulation,0
+P24M,Total Circulation,"505,595"
+P00M,Name of Library,Sun Ray Branch Library
+P00Mb,Reg./Sequence Number,M0813
+P01M,Population of the Legal Service Area,"20,521"
+P02aM,Registered Borrowers - Residents,"20,454"
+P02bM,Registered Borrowers - Reciprocal,"6,796"
+P02cM,Total Registered Borrowers (Manually Input),"27,250"
+P04M,Library Visits,"250,423"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"25,636"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"45,876"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"89,518"
+P16M,Children's Library Programs,160
+P17M,Children's Program Attendance,"3,123"
+P18M,Yound Adult Library Programs,39
+P19M,Young Adult Program Attendance,641
+P20M,Adult Circulation,"133,783"
+P21M,Adult Library Programs,138
+P22M,Adult Program Attendance,952
+P23M,Other Circulation,0
+P24M,Total Circulation,"223,301"
+P00M,Name of Library,West 7th Street Popular Library
+P00Mb,Reg./Sequence Number,M0815
+P01M,Population of the Legal Service Area,"4,294"
+P02aM,Registered Borrowers - Residents,"3,095"
+P02bM,Registered Borrowers - Reciprocal,404
+P02cM,Total Registered Borrowers (Manually Input),"3,499"
+P04M,Library Visits,"32,320"
+P05M,Actual Tally/Sample,Actual
+P06M,Reference Transactions,"2,964"
+P07M,Actual Tally/Sample,Sample
+P08M,Stations,0
+P09M,Users of Public Internet Computers,"6,922"
+P10M,Actual Tally/Sample,Actual
+P11M,Users of Public Internet Computers Universe,Provides other computer usage in addition to Internet
+P15M,Children's Circulation,"23,094"
+P16M,Children's Library Programs,49
+P17M,Children's Program Attendance,"2,153"
+P18M,Yound Adult Library Programs,13
+P19M,Young Adult Program Attendance,162
+P20M,Adult Circulation,"27,425"
+P21M,Adult Library Programs,35
+P22M,Adult Program Attendance,"1,100"
+P23M,Other Circulation,0
+P24M,Total Circulation,"50,519"

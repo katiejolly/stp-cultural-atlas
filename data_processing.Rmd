@@ -1,0 +1,424 @@
+---
+title: "Untitled"
+author: "Katie Jolly"
+date: "March 3, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(sf)
+library(tidyverse)
+library(janitor)
+library(readxl)
+library(showtext)
+library(ggsflabel)
+
+font.add.google(name = "Lato", family = "Lato", regular.wt = 300, bold.wt = 300)
+showtext.auto()
+# 
+# save_and_upload <- function(image_name)
+
+library(googlesheets)
+library(gghighlight)
+
+master <- gs_title("Master")
+
+master_data <- gs_read(master)
+
+master_long <- master_data %>% gather("year", "value", 4:11) %>% mutate(year = as.numeric(parse_number(year)))
+
+write_csv(master_long, "data/master_long.csv")
+```
+
+```{r read in data}
+Popular_Titles_Highland_Park <- read_excel("data/Popular_Titles Highland Park.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Highland Park")
+
+Popular_Titles_Merriam <- read_excel("data/Popular_Titles Merriam.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Merriam")
+
+Popular_Titles_Rondo <- read_excel("data/Popular_Titles Rondo.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Rondo")
+
+Popular_Titles_St_Anthony <- read_excel("data/Popular_Titles St. Anthony Park.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "St. Anthony Park")
+
+Popular_Titles_Riverview <- read_excel("data/Popular_Titles Riverview.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Riverview")
+
+Popular_Titles_Rice_Street <- read_excel("data/Popular_Titles Rice Street.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Rice Street")
+
+Popular_Titles_Hayden_Heights <- read_excel("data/Popular_Titles Hayden Heights.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Hayden Heights")
+
+Popular_Titles_Arlingon <- read_excel("data/Popular_Titles Arlington.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Arlington")
+
+Popular_Titles_Hamline <- read_excel("data/Popular_Titles Hamline.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Hamline")
+
+Popular_Titles_Daytons_Bluff <- read_excel("data/Popular_Titles Dayton's Bluff.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Dayton's Bluff")
+
+Popular_Titles_Central <- read_excel("data/Popular_Titles Central.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Central")
+
+Popular_Titles_Bookmobile <- read_excel("data/Popular_Titles Bookmobile.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Bookmobile")
+
+Popular_Titles_West7th <- read_excel("data/Popular_Titles West 7th.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "West 7th")
+
+Popular_Titles_Sun_Ray <- read_excel("data/Popular_Titles Sun Ray.xlsx", 
+     skip = 2) %>%
+     mutate(Library = "Sun Ray")
+```
+
+```{r create data frame}
+dfs = sapply(.GlobalEnv, is.data.frame) 
+dfs
+
+Popular_Titles <- do.call(bind_rows, mget(names(dfs)[dfs]))
+
+write_csv(Popular_Titles, "data/Popular_Titles.csv")
+```
+
+```{r locationdata}
+Public_Buildings <- st_read("https://information.stpaul.gov/resource/3giy-3djb.geojson") %>%
+  st_transform(26915)
+
+Cities <- st_read("data/bdry_jurisdiction.gpkg") %>%
+  st_transform(26915)
+
+Saint_Paul <- Cities %>%
+  filter(FEATURE_NA == "Saint Paul")
+
+Libraries <- Public_Buildings %>%
+  filter(building_type == "Library")
+
+ggplot() +
+  geom_sf(data = Saint_Paul, fill = "#D6E1E2", color = "#D6E1E2") +
+  ggthemes::theme_map() +
+  theme(panel.grid.major = element_line("transparent"),
+        text = element_text(color = "#596D77", family = "Lato", size = 50)) +
+  geom_sf(data = Libraries, color = "#6E7096") +
+  geom_sf_text_repel(data = Libraries, aes(label = building_name), force = 20, nudge_x = -1, seed = 10, size = 7, color = "#596D77")
+
+
+ggsave("plots/library_locations.svg")
+```
+
+```{r}
+facts_and_figures <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vS0sbUDABm1gi8fc1AQZTZ-t350spJkEQ0Qn_Z60Pz57fZ1o3UOZynRGla_3utJZRPFXzJdA04zLuBI/pub?output=csv")
+
+facts_figures_long <- facts_and_figures %>%
+  gather(key = "year", value = "total", 2:17) %>%
+  mutate(total = gsub("na", NA, total)) %>%
+  mutate(total = as.numeric(gsub(",", "", total)))
+
+write_csv(facts_figures_long, "data/facts_figures_long.csv")
+```
+
+```{r}
+library(scales)
+ggplot(facts_figures_long %>% filter(variable == "items loaned")) +
+  geom_line(aes(x = as.numeric(year), y = total), color= "#6E7096") +
+  theme_minimal() +
+  theme(text = element_text(color = "#596D77", family = "Lato", size = 40),
+        axis.text = element_text(size = 24)) +
+  labs(title = "The libraries have been loaning fewer items since the late 2000s",
+       y = "Items loaned system-wide", x = "Year") +
+  scale_y_continuous(label = comma) +
+  annotate("rect", ymin = 2400000, ymax = 3500000, xmin = 2009, xmax = 2011, alpha = 0.15) +
+  geom_text(aes(x = 2010.5, y = 3280000, label = "2010: SPPL budget cuts"), color = "#596D77", family ="Lato", hjust = 0, vjust = 0, size = 10)
+
+ggsave("plots/items_loaned.png")
+
+ggplot(facts_figures_long %>% filter(variable == "total wireless sessions")) +
+  geom_point(aes(x = as.numeric(year), y = total), color= "#6E7096") +
+  theme_minimal() +
+  theme(text = element_text(color = "#596D77", family = "Lato", size = 45),
+        axis.text = element_text(size = 24)) +
+  labs(title = "The libraries have been loaning fewer items since the late 2000s",
+       y = "Items loaned system-wide", x = "Year") +
+  scale_y_continuous(label = comma) +
+  geom_vline(xintercept = 2010, linetype = 3, color = "#596D77") +
+  geom_text(aes(x = 2010.5, y = 3280000, label = "2010: SPPL budget cuts"), color = "#596D77", family ="Lato", hjust = 0, vjust = 0, size = 10)
+```
+
+
+```{r}
+
+```
+
+```{r}
+ggplot() +
+  geom_line(data = master_long %>% filter(Variable == "Library Visits"), 
+            aes(x = year, y = value, group = Branch), color = "#D6E1E2") + 
+  theme_minimal() +
+  theme(text = element_text(color = "#596D77", family = "Lato", size = 40),
+        panel.grid.major = element_line("transparent"),
+        panel.grid.minor = element_line("transparent")) +
+  labs( x = "", y = "") +
+  scale_x_continuous(breaks=c(2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017)) 
+
+ggsave("plots/overall_visit_change.png", width = 7.5, heigh = 7.5)
+drive_upload("plots/overall_visit_change.png", path = "sppl-viz/", name = "overall_visit_change.png")
+```
+
+
+
+```{r}
+## plot showing decrease in Rondo visits
+
+ggplot() +
+  geom_line(data = master_long %>% filter(Variable == "Library Visits", year %in% c(2010, 2017)), 
+            aes(x = year, y = value, group = Branch), color = "#D6E1E2") +
+  geom_line(data = master_long %>% filter(Variable == "Library Visits", year %in% c(2010, 2017), Branch == "Rondo Community Outreach"), 
+            aes(x = year, y = value, group = Branch), color = "#962e40") + 
+  theme_minimal() +
+  theme(text = element_text(color = "#596D77", family = "Lato", size = 40),
+        panel.grid.major = element_line("transparent"),
+        panel.grid.minor = element_line("transparent")) +
+  labs(subtitle = "For some reason, visits to the Rondo library have decreased significantly since 2010", x = "", y = "") +
+  scale_y_continuous(labels = comma) +
+  scale_x_continuous(breaks=c(2010, 2017)) +
+  geom_text(data = tibble(x = c(2010.8, 2016.6), y = c(450000, 255000), label = c("445,480 visits", "218,205 visits")), aes(x = x, y = y, label = label), color = "#962e40", size = 12)
+  
+
+ggsave("plots/rondo_change_line.png", width = 7.5, heigh = 7.5)
+
+  
+```
+
+```{r}
+library(googledrive)
+
+drive_upload("plots/rondo_change_line.png", path = "sppl-viz/", name = "rondo_change_line.png")
+```
+
+```{r}
+library_visits <-  master_long %>% filter(Variable == "Library Visits")
+ggplot() +
+  geom_line(data = master_long %>% filter(Variable == "Library Visits", year %in% c(2010, 2017)), 
+            aes(x = year, y = value, group = Branch), color = "#D6E1E2") +
+  geom_line(data = library_visits %>% group_by(year) %>% filter(year %in% c(2010, 2017)) %>% summarise(mean = mean(value)), aes(x = year, y = mean), color = "#ff636d", linetype = 3, size = 2) + 
+  theme_minimal() +
+  theme(text = element_text(color = "#596D77", family = "Lato", size = 40),
+        panel.grid.major = element_line("transparent"),
+        panel.grid.minor = element_line("transparent")) +
+  labs(subtitle = "On average, visits to libraries slightly decreased over this period", x = "", y = "") +
+  scale_y_continuous(labels = comma) +
+  scale_x_continuous(breaks=c(2010, 2017)) 
+
+ggsave("plots/average_visits_highlight.png")
+drive_upload("plots/average_visits_highlight.png", path = "sppl-viz/", name = "average_visits_highlight.png")
+```
+
+```{r}
+## showing circulation counts
+
+library(treemap)
+
+svg("plots/tree_hamline_full.svg")
+
+treemap(Popular_Titles_Hamline, index = "Title", vSize = "Circulation", type = "index")
+
+dev.off()
+
+dev.copy(tree_hamline, "plots/tree_hamline.png")
+
+Popular_Titles_Hamline <- Popular_Titles_Hamline %>% mutate(Title = fct_reorder(factor(Title), Circulation, .desc = TRUE))
+
+ggplot(Popular_Titles_Hamline, aes(x = Title, y = Circulation)) +
+  geom_col(fill = "#D6E1E2") +
+  theme_void()
+```
+
+
+```{r}
+## uniquely popular
+
+popularity <- Popular_Titles %>% 
+  arrange(Library, desc(Circulation)) %>%
+  group_by(Library) %>% 
+  mutate(rank = rank(-Circulation, ties.method = "first"))
+
+uniquely_popular_top10 <- popularity %>%
+  filter(rank <= 10) %>%
+  group_by(Title) %>%
+  count() %>%
+  filter(n == 1)
+
+libraries_with_uniquePopular <- popularity %>%
+  filter(rank <= 10) %>%
+  semi_join(uniquely_popular_top10, by = "Title")
+
+libraries_with_uniquePopular %>%
+  group_by(Library) %>%
+  summarise(total = n()) %>%
+  mutate(Library = fct_reorder(Library, desc(total))) %>%
+  ggplot(aes(x = Library, y = total)) +
+  geom_col(fill = "#6E7096") +
+  theme_minimal() +
+  scale_y_continuous(breaks = c(0,1, 5, 10)) +
+  labs(title = "The Bookmobile and West 7th have the most unqiuely popular media", y = "Unique Top 10 Books", x = "") +
+  theme(axis.text.x = element_text(angle = 40, hjust = 1),
+        panel.grid = element_line("transparent"),
+        text = element_text(color = "#596D77", family = "Lato", size = 40),
+        axis.text = element_text(color = "#596D77"))
+
+ggsave("plots/number_unique_popular.png")
+drive_upload("plots/number_unique_popular.png", path = "sppl-viz/", name = "number_unique_popular.png")
+```
+
+```{r}
+master_long <- master_long %>% mutate(Branch_clean = gsub("Central", "George Latimer Central Library", Branch), Branch_clean = gsub("Highland", "Highland Park", Branch_clean), Branch_clean = gsub("Rondo Community Outreach", "Rondo", Branch_clean), Branch_clean = gsub("St. Anthony Park", "Saint Anthony Park", Branch_clean), Branch_clean = gsub("West 7th Street Popular", "West 7th", Branch_clean))
+
+master_long_sf <- Libraries %>% 
+  select(building_name, location_1_address, geometry) %>%
+  right_join(master_long, by = c("building_name" = "Branch_clean"))
+
+circulation_2017 <- master_long_sf %>%
+  filter(year == 2017, str_detect(Variable, "Total Circulation")) %>%
+  st_transform(26915)
+
+ggplot() +
+  geom_sf(data = Saint_Paul %>% st_transform(26915), fill = "#D6E1E2", color = "#D6E1E2") +
+  geom_sf(data = circulation_2017, aes(size = 10 * value), color = "#6E7096") +
+  ggthemes::theme_map() +
+  theme(panel.grid.major = element_line("transparent"),
+        text = element_text(color = "#596D77", family = "Lato", size = 45),
+        legend.position = "none") +
+  labs(title = "Libraries like Highland Park and Central have high circulation") +
+  geom_sf_text_repel(data = Libraries, aes(label = building_name), force = 30, nudge_x = -2, seed = 10, size = 9, color = "#596D77")
+
+ggsave("plots/circulation_map.png")
+drive_upload("plots/circulation_map.png", path = "sppl-viz/", name = "circulation_map.png")
+```
+
+```{r}
+Popular_Titles_Arlingon %>%
+  mutate(title_short = substr(Title, start = 1, stop = 20)) %>%
+  mutate(title_short = fct_reorder(title_short, Circulation)) %>%
+  arrange(desc(Circulation)) %>%
+  head(10) %>%
+  ggplot(aes(x = title_short, y = Circulation)) +
+  geom_col() +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = -90)) +
+  ylim(0, 250)
+
+ggsave("plots/popular_titles_arlington_bar.png", width = 4.5, height = 3)
+```
+
+```{r}
+library(extrafont)
+make_title_svg_right <- function(data, file){
+  g <- data %>%
+  mutate(title_short = substr(Title, start = 1, stop = 21)) %>%
+  mutate(title_short = fct_reorder(title_short, Circulation)) %>%
+  arrange(desc(Circulation)) %>%
+  head(10) %>%
+  ggplot(aes(x = title_short, y = Circulation)) +
+  geom_col() +
+  theme_minimal() +
+  theme(text = element_text(family = "Century Gothic"), axis.text.x = element_text(angle = -90),
+        panel.grid = element_line("transparent")) +
+  ylim(0, 250) +
+  ggtitle(file) +
+  geom_text(aes(y = Circulation + 15, label = Circulation))
+  
+  g # show plot
+
+  ggsave(file, g, width = 4.5, height = 3)
+}
+
+make_title_svg_left <- function(data, file){
+  g <- data %>%
+  mutate(title_short = substr(Title, start = 1, stop = 21)) %>%
+  mutate(title_short = fct_reorder(title_short, -Circulation)) %>%
+  arrange(desc(Circulation)) %>%
+  head(10) %>%
+  ggplot(aes(x = title_short, y = Circulation)) +
+  geom_col() +
+  theme_minimal() +
+  theme(text = element_text(family = "Century Gothic"), axis.text.x = element_text(angle = 90),
+        panel.grid = element_line("transparent")) +
+  ylim(0, 250) +
+  ggtitle(file) +
+  geom_text(aes(y = Circulation + 15, label = Circulation))
+  
+  g # show plot
+
+  ggsave(file, g, width = 4.5, height = 3)
+}
+```
+
+
+```{r}
+make_title_svg_right(Popular_Titles_Bookmobile, "plots/bookmobile_bar.svg")
+make_title_svg_right(Popular_Titles_Central, "plots/central_bar.svg")
+make_title_svg_right(Popular_Titles_Highland_Park, "plots/highland_bar.svg")
+make_title_svg_right(Popular_Titles_Riverview, "plots/riverview_bar.svg")
+make_title_svg_right(Popular_Titles_Daytons_Bluff, "plots/daytons_bluff_bar.svg")
+make_title_svg_right(Popular_Titles_Hamline, "plots/hamline_bar.svg")
+
+
+make_title_svg_left(Popular_Titles_Sun_Ray, "plots/sun_ray_bar.svg")
+make_title_svg_left(Popular_Titles_West7th, "plots/west_7th_bar.svg")
+make_title_svg_left(Popular_Titles_Rice_Street, "plots/rice_st_bar.svg")
+make_title_svg_left(Popular_Titles_Rondo, "plots/rondo_bar.svg")
+make_title_svg_left(Popular_Titles_Hayden_Heights, "plots/hayden_heights_bar.svg")
+make_title_svg_left(Popular_Titles_Merriam, "plots/merriam_park_bar.svg")
+make_title_svg_left(Popular_Titles_St_Anthony, "plots/st_anthony_bar.svg")
+```
+
+```{r}
+books <- Popular_Titles %>%
+  filter(!is.na(Author))
+```
+
+```{r}
+normalized_circulation <- master_long %>%
+  filter(str_detect(Variable, "Total Registered Borrowers") | str_detect(Variable, "Total Circulation")) %>%
+  spread(Variable, value) %>%
+  janitor::clean_names() %>%
+  mutate(circulation_clean = coalesce(total_circulation, total_circulation_manually_input),
+         users_clean = coalesce(total_registered_borrowers, total_registered_borrowers_manually_input, total_registered_borrowers_users)) %>%
+  select(branch, year, circulation_clean, users_clean) %>%
+  group_by(branch, year) %>%
+  summarise(circulation_clean = mean(circulation_clean, na.rm = TRUE),
+            users_clean = mean(users_clean, na.rm = TRUE)) %>%
+  mutate(circulation_rate = round(circulation_clean / users_clean, 2))
+```
+
+
+```{r}
+library(LaCroixColoR)
+ggplot(normalized_circulation) +
+  geom_line(aes(x = year, y = circulation_rate, group = branch, color = branch)) +
+  theme_minimal() +
+  labs(y = "Items checked out per person", x = "Year")
+```
+
+
+
