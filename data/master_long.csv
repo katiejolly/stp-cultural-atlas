@@ -26,6 +26,8 @@ Arlington Hills,P23M,Adult Program Attendance,2010,898
 Arlington Hills,P24M,Other Circulation,2010,0
 Arlington Hills,P25M,Total Circulation (Manually Input),2010,67514
 Arlington Hills,P26M,Total Programs (Manually Input),2010,NA
+Arlington Hills,NA,Public Internet Computers,2010,NA
+Arlington Hills,NA,Mobile Devices,2010,NA
 Dayton's Bluff,P01M,Population of the Legal Service Area,2010,14833
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2010,8229
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2010,2442
@@ -54,6 +56,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2010,21
 Dayton's Bluff,C05M,Other Physical Materials,2010,94
 Dayton's Bluff,C06M,Total Materials (Manually Input),2010,36937
 Dayton's Bluff,C07M,Print Serial Subscriptions,2010,39
+Dayton's Bluff,NA,Public Internet Computers,2010,NA
+Dayton's Bluff,NA,Mobile Devices,2010,NA
 Hamline Midway,P01M,Population of the Legal Service Area,2010,16122
 Hamline Midway,P02aM,Registered Borrowers - Residents,2010,8595
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2010,1389
@@ -65,7 +69,7 @@ Hamline Midway,P09M,Users of Public Internet Computers,2010,18106
 Hamline Midway,P15M,Children's Circulation,2010,53163
 Hamline Midway,P16M,Children's Library Programs,2010,117
 Hamline Midway,P17M,Children's Program Attendance,2010,2845
-Hamline Midway,P18M,Yound Adult Library Programs,2010,8
+Hamline Midway,P18M,Young Adult Library Programs,2010,8
 Hamline Midway,P19M,Young Adult Program Attendance,2010,169
 Hamline Midway,P20M,Adult Circulation,2010,60774
 Hamline Midway,P21M,Adult Library Programs,2010,75
@@ -82,6 +86,8 @@ Hamline Midway,C05M,Other Physical Materials,2010,93
 Hamline Midway,C06M,Total Materials (Manually Input),2010,30322
 Hamline Midway,C07M,Print Serial Subscriptions,2010,50
 Hamline Midway,NA,Wireless Sessions,2010,NA
+Hamline Midway,NA,Public Internet Computers,2010,NA
+Hamline Midway,NA,Mobile Devices,2010,NA
 Hayden Heights,P01M,Population of the Legal Service Area,2010,28050
 Hayden Heights,P02aM,Registered Borrowers - Residents,2010,18017
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2010,4720
@@ -110,6 +116,8 @@ Hayden Heights,C04M,Multi-format Materials,2010,23
 Hayden Heights,C05M,Other Physical Materials,2010,96
 Hayden Heights,C06M,Total Materials (Manually Input),2010,52025
 Hayden Heights,C07M,Print Serial Subscriptions,2010,78
+Hayden Heights,NA,Public Internet Computers,2010,NA
+Hayden Heights,NA,Mobile Devices,2010,NA
 Highland,P01M,Population of the Legal Service Area,2010,37077
 Highland,P02aM,Registered Borrowers - Residents,2010,29783
 Highland,P02bM,Registered Borrowers - Reciprocal,2010,7467
@@ -122,7 +130,7 @@ Highland,NA,Wireless Sessions,2010,NA
 Highland,P15M,Children's Circulation,2010,222057
 Highland,P16M,Children's Library Programs,2010,57
 Highland,P17M,Children's Program Attendance,2010,2530
-Highland,P18M,Yound Adult Library Programs,2010,1
+Highland,P18M,Young Adult Library Programs,2010,1
 Highland,P19M,Young Adult Program Attendance,2010,44
 Highland,P20M,Adult Circulation,2010,317914
 Highland,P21M,Adult Library Programs,2010,42
@@ -138,6 +146,8 @@ Highland,C04M,Multi-format Materials,2010,104
 Highland,C05M,Other Physical Materials,2010,95
 Highland,C06M,Total Materials (Manually Input),2010,117051
 Highland,C07M,Print Serial Subscriptions,2010,97
+Highland,NA,Public Internet Computers,2010,NA
+Highland,NA,Mobile Devices,2010,NA
 Merriam Park,P01M,Population of the Legal Service Area,2010,29096
 Merriam Park,P02aM,Registered Borrowers - Residents,2010,20162
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2010,5334
@@ -166,6 +176,8 @@ Merriam Park,C04M,Multi-format Materials,2010,31
 Merriam Park,C05M,Other Physical Materials,2010,95
 Merriam Park,C06M,Total Materials (Manually Input),2010,82150
 Merriam Park,C07M,Print Serial Subscriptions,2010,135
+Merriam Park,NA,Public Internet Computers,2010,NA
+Merriam Park,NA,Mobile Devices,2010,NA
 Rice Street,P01M,Population of the Legal Service Area,2010,27466
 Rice Street,P02aM,Registered Borrowers - Residents,2010,17937
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2010,2994
@@ -194,6 +206,8 @@ Rice Street,C04M,Multi-format Materials,2010,29
 Rice Street,C05M,Other Physical Materials,2010,95
 Rice Street,C06M,Total Materials (Manually Input),2010,46988
 Rice Street,C07M,Print Serial Subscriptions,2010,49
+Rice Street,NA,Public Internet Computers,2010,NA
+Rice Street,NA,Mobile Devices,2010,NA
 Riverview,P01M,Population of the Legal Service Area,2010,15083
 Riverview,P02aM,Registered Borrowers - Residents,2010,11202
 Riverview,P02bM,Registered Borrowers - Reciprocal,2010,1715
@@ -222,6 +236,8 @@ Riverview,C04M,Multi-format Materials,2010,44
 Riverview,C05M,Other Physical Materials,2010,93
 Riverview,C06M,Total Materials (Manually Input),2010,27679
 Riverview,C07M,Print Serial Subscriptions,2010,49
+Riverview,NA,Public Internet Computers,2010,NA
+Riverview,NA,Mobile Devices,2010,NA
 St. Anthony Park,P01M,Population of the Legal Service Area,2010,9014
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2010,8956
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2010,6535
@@ -248,6 +264,8 @@ St. Anthony Park,C04M,Multi-format Materials,2010,29
 St. Anthony Park,C05M,Other Physical Materials,2010,94
 St. Anthony Park,C06M,Total Materials (Manually Input),2010,50136
 St. Anthony Park,C07M,Print Serial Subscriptions,2010,89
+St. Anthony Park,NA,Public Internet Computers,2010,NA
+St. Anthony Park,NA,Mobile Devices,2010,NA
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2010,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2010,9097
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2010,303
@@ -274,6 +292,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2010,1
 St. Paul Bookmobile,C05M,Other Physical Materials,2010,92
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2010,18455
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2010,27
+St. Paul Bookmobile,NA,Public Internet Computers,2010,NA
+St. Paul Bookmobile,NA,Mobile Devices,2010,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2010,32082
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2010,33278
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2010,7310
@@ -299,6 +319,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2010,141
 Rondo Community Outreach,C05M,Other Physical Materials,2010,96
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2010,93424
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2010,93
+Rondo Community Outreach,NA,Public Internet Computers,2010,NA
+Rondo Community Outreach,NA,Mobile Devices,2010,NA
 Central,P01M,Population of the Legal Service Area,2010,17423
 Central,P02aM,Registered Borrowers - Residents,2010,44929
 Central,P02bM,Registered Borrowers - Reciprocal,2010,26135
@@ -311,7 +333,7 @@ Central,NA,Wireless Sessions,2010,NA
 Central,P15M,Children's Circulation,2010,82515
 Central,P16M,Children's Library Programs,2010,297
 Central,P17M,Children's Program Attendance,2010,10472
-Central,P18M,Yound Adult Library Programs,2010,156
+Central,P18M,Young Adult Library Programs,2010,156
 Central,P19M,Young Adult Program Attendance,2010,2641
 Central,P20M,Adult Circulation,2010,178806
 Central,P21M,Adult Library Programs,2010,340
@@ -325,6 +347,8 @@ Central,C04M,Multi-format Materials,2010,42
 Central,C05M,Other Physical Materials,2010,95
 Central,C06M,Total Materials (Manually Input),2010,377384
 Central,C07M,Print Serial Subscriptions,2010,498
+Central,NA,Public Internet Computers,2010,NA
+Central,NA,Mobile Devices,2010,NA
 Sun Ray,P01M,Population of the Legal Service Area,2010,20521
 Sun Ray,P02aM,Registered Borrowers - Residents,2010,20454
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2010,6796
@@ -351,6 +375,8 @@ Sun Ray,C04M,Multi-format Materials,2010,10
 Sun Ray,C05M,Other Physical Materials,2010,95
 Sun Ray,C06M,Total Materials (Manually Input),2010,64999
 Sun Ray,C07M,Print Serial Subscriptions,2010,120
+Sun Ray,NA,Public Internet Computers,2010,NA
+Sun Ray,NA,Mobile Devices,2010,NA
 West 7th Street Popular,P01M,Population of the Legal Service Area,2010,4294
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2010,3095
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2010,404
@@ -379,6 +405,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2010,0
 West 7th Street Popular,C05M,Other Physical Materials,2010,94
 West 7th Street Popular,C06M,Total Materials (Manually Input),2010,10484
 West 7th Street Popular,C07M,Print Serial Subscriptions,2010,13
+West 7th Street Popular,NA,Public Internet Computers,2010,NA
+West 7th Street Popular,NA,Mobile Devices,2010,NA
 Arlington Hills,C01M,Print Materials,2011,18506
 Arlington Hills,C02M,Audio Materials,2011,2125
 Arlington Hills,C03M,Video Materials,2011,3865
@@ -406,6 +434,8 @@ Arlington Hills,P23M,Adult Program Attendance,2011,1100
 Arlington Hills,P24M,Other Circulation,2011,0
 Arlington Hills,P25M,Total Circulation (Manually Input),2011,57221
 Arlington Hills,P26M,Total Programs (Manually Input),2011,242
+Arlington Hills,NA,Public Internet Computers,2011,NA
+Arlington Hills,NA,Mobile Devices,2011,NA
 Dayton's Bluff,P01M,Population of the Legal Service Area,2011,14457
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2011,9150
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2011,2777
@@ -434,6 +464,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2011,19
 Dayton's Bluff,C05M,Other Physical Materials,2011,94
 Dayton's Bluff,C06M,Total Materials (Manually Input),2011,34158
 Dayton's Bluff,C07M,Print Serial Subscriptions,2011,36
+Dayton's Bluff,NA,Public Internet Computers,2011,NA
+Dayton's Bluff,NA,Mobile Devices,2011,NA
 Hamline Midway,P01M,Population of the Legal Service Area,2011,15989
 Hamline Midway,P02aM,Registered Borrowers - Residents,2011,8266
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2011,1338
@@ -445,7 +477,7 @@ Hamline Midway,P09M,Users of Public Internet Computers,2011,16265
 Hamline Midway,P15M,Children's Circulation,2011,47641
 Hamline Midway,P16M,Children's Library Programs,2011,136
 Hamline Midway,P17M,Children's Program Attendance,2011,3133
-Hamline Midway,P18M,Yound Adult Library Programs,2011,18
+Hamline Midway,P18M,Young Adult Library Programs,2011,18
 Hamline Midway,P19M,Young Adult Program Attendance,2011,216
 Hamline Midway,P20M,Adult Circulation,2011,51300
 Hamline Midway,P21M,Adult Library Programs,2011,53
@@ -462,6 +494,8 @@ Hamline Midway,C05M,Other Physical Materials,2011,93
 Hamline Midway,C06M,Total Materials (Manually Input),2011,24678
 Hamline Midway,C07M,Print Serial Subscriptions,2011,48
 Hamline Midway,NA,Wireless Sessions,2011,NA
+Hamline Midway,NA,Public Internet Computers,2011,NA
+Hamline Midway,NA,Mobile Devices,2011,NA
 Hayden Heights,P01M,Population of the Legal Service Area,2011,29960
 Hayden Heights,P02aM,Registered Borrowers - Residents,2011,17105
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2011,4678
@@ -490,6 +524,8 @@ Hayden Heights,C04M,Multi-format Materials,2011,15
 Hayden Heights,C05M,Other Physical Materials,2011,96
 Hayden Heights,C06M,Total Materials (Manually Input),2011,48055
 Hayden Heights,C07M,Print Serial Subscriptions,2011,65
+Hayden Heights,NA,Public Internet Computers,2011,NA
+Hayden Heights,NA,Mobile Devices,2011,NA
 Highland,P01M,Population of the Legal Service Area,2011,37210
 Highland,P02aM,Registered Borrowers - Residents,2011,28308
 Highland,P02bM,Registered Borrowers - Reciprocal,2011,7607
@@ -502,7 +538,7 @@ Highland,NA,Wireless Sessions,2011,NA
 Highland,P15M,Children's Circulation,2011,201060
 Highland,P16M,Children's Library Programs,2011,67
 Highland,P17M,Children's Program Attendance,2011,2083
-Highland,P18M,Yound Adult Library Programs,2011,17
+Highland,P18M,Young Adult Library Programs,2011,17
 Highland,P19M,Young Adult Program Attendance,2011,257
 Highland,P20M,Adult Circulation,2011,284154
 Highland,P21M,Adult Library Programs,2011,98
@@ -518,6 +554,8 @@ Highland,C04M,Multi-format Materials,2011,20
 Highland,C05M,Other Physical Materials,2011,95
 Highland,C06M,Total Materials (Manually Input),2011,98052
 Highland,C07M,Print Serial Subscriptions,2011,88
+Highland,NA,Public Internet Computers,2011,NA
+Highland,NA,Mobile Devices,2011,NA
 Merriam Park,P01M,Population of the Legal Service Area,2011,30547
 Merriam Park,P02aM,Registered Borrowers - Residents,2011,18855
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2011,5361
@@ -546,6 +584,8 @@ Merriam Park,C04M,Multi-format Materials,2011,11
 Merriam Park,C05M,Other Physical Materials,2011,95
 Merriam Park,C06M,Total Materials (Manually Input),2011,70979
 Merriam Park,C07M,Print Serial Subscriptions,2011,109
+Merriam Park,NA,Public Internet Computers,2011,NA
+Merriam Park,NA,Mobile Devices,2011,NA
 Rice Street,P01M,Population of the Legal Service Area,2011,29755
 Rice Street,P02aM,Registered Borrowers - Residents,2011,17459
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2011,3190
@@ -574,6 +614,8 @@ Rice Street,C04M,Multi-format Materials,2011,22
 Rice Street,C05M,Other Physical Materials,2011,95
 Rice Street,C06M,Total Materials (Manually Input),2011,44941
 Rice Street,C07M,Print Serial Subscriptions,2011,45
+Rice Street,NA,Public Internet Computers,2011,NA
+Rice Street,NA,Mobile Devices,2011,NA
 Riverview,P01M,Population of the Legal Service Area,2011,14959
 Riverview,P02aM,Registered Borrowers - Residents,2011,10669
 Riverview,P02bM,Registered Borrowers - Reciprocal,2011,1753
@@ -602,6 +644,8 @@ Riverview,C04M,Multi-format Materials,2011,35
 Riverview,C05M,Other Physical Materials,2011,93
 Riverview,C06M,Total Materials (Manually Input),2011,25636
 Riverview,C07M,Print Serial Subscriptions,2011,45
+Riverview,NA,Public Internet Computers,2011,NA
+Riverview,NA,Mobile Devices,2011,NA
 St. Anthony Park,P01M,Population of the Legal Service Area,2011,9390
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2011,8490
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2011,6493
@@ -628,6 +672,8 @@ St. Anthony Park,C04M,Multi-format Materials,2011,9
 St. Anthony Park,C05M,Other Physical Materials,2011,93
 St. Anthony Park,C06M,Total Materials (Manually Input),2011,41123
 St. Anthony Park,C07M,Print Serial Subscriptions,2011,69
+St. Anthony Park,NA,Public Internet Computers,2011,NA
+St. Anthony Park,NA,Mobile Devices,2011,NA
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2011,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2011,8737
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2011,568
@@ -654,6 +700,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2011,1
 St. Paul Bookmobile,C05M,Other Physical Materials,2011,92
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2011,18906
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2011,26
+St. Paul Bookmobile,NA,Public Internet Computers,2011,NA
+St. Paul Bookmobile,NA,Mobile Devices,2011,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2011,30804
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2011,32556
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2011,8026
@@ -679,6 +727,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2011,81
 Rondo Community Outreach,C05M,Other Physical Materials,2011,96
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2011,83126
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2011,87
+Rondo Community Outreach,NA,Public Internet Computers,2011,NA
+Rondo Community Outreach,NA,Mobile Devices,2011,NA
 Central,P01M,Population of the Legal Service Area,2011,17295
 Central,P02aM,Registered Borrowers - Residents,2011,42864
 Central,P02bM,Registered Borrowers - Reciprocal,2011,18935
@@ -691,7 +741,7 @@ Central,NA,Wireless Sessions,2011,NA
 Central,P15M,Children's Circulation,2011,76466
 Central,P16M,Children's Library Programs,2011,302
 Central,P17M,Children's Program Attendance,2011,9445
-Central,P18M,Yound Adult Library Programs,2011,193
+Central,P18M,Young Adult Library Programs,2011,193
 Central,P19M,Young Adult Program Attendance,2011,2874
 Central,P20M,Adult Circulation,2011,158668
 Central,P21M,Adult Library Programs,2011,508
@@ -705,6 +755,8 @@ Central,C04M,Multi-format Materials,2011,23
 Central,C05M,Other Physical Materials,2011,96
 Central,C06M,Total Materials (Manually Input),2011,362608
 Central,C07M,Print Serial Subscriptions,2011,482
+Central,NA,Public Internet Computers,2011,NA
+Central,NA,Mobile Devices,2011,NA
 Sun Ray,P01M,Population of the Legal Service Area,2011,21996
 Sun Ray,P02aM,Registered Borrowers - Residents,2011,19929
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2011,7213
@@ -731,6 +783,8 @@ Sun Ray,C04M,Multi-format Materials,2011,8
 Sun Ray,C05M,Other Physical Materials,2011,97
 Sun Ray,C06M,Total Materials (Manually Input),2011,59783
 Sun Ray,C07M,Print Serial Subscriptions,2011,118
+Sun Ray,NA,Public Internet Computers,2011,NA
+Sun Ray,NA,Mobile Devices,2011,NA
 West 7th Street Popular,P01M,Population of the Legal Service Area,2011,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2011,3077
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2011,431
@@ -759,6 +813,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2011,0
 West 7th Street Popular,C05M,Other Physical Materials,2011,93
 West 7th Street Popular,C06M,Total Materials (Manually Input),2011,10408
 West 7th Street Popular,C07M,Print Serial Subscriptions,2011,15
+West 7th Street Popular,NA,Public Internet Computers,2011,NA
+West 7th Street Popular,NA,Mobile Devices,2011,NA
 Arlington Hills,C01M,Print Materials,2013,18353
 Arlington Hills,C02M,Audio Materials,2013,NA
 Arlington Hills,C03M,Video Materials,2013,4781
@@ -776,16 +832,18 @@ Arlington Hills,P08M,Stations,2013,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2013,23121
 Arlington Hills,P15M,Wireless Sessions,2013,NA
 Arlington Hills,P16M,Children's Circulation,2013,32119
-Arlington Hills,P17M,Children's Library Programs,2013,NA
-Arlington Hills,P18M,Children's Program Attendance,2013,NA
-Arlington Hills,P19M,Young Adult Library Programs,2013,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2013,NA
+Arlington Hills,P17M,Children's Library Programs,2013,205
+Arlington Hills,P18M,Children's Program Attendance,2013,3276
+Arlington Hills,P19M,Young Adult Library Programs,2013,63
+Arlington Hills,P20M,Young Adult Program Attendance,2013,1031
 Arlington Hills,P21M,Adult Circulation,2013,27507
-Arlington Hills,P22M,Adult Library Programs,2013,NA
-Arlington Hills,P23M,Adult Program Attendance,2013,NA
+Arlington Hills,P22M,Adult Library Programs,2013,327
+Arlington Hills,P23M,Adult Program Attendance,2013,3063
 Arlington Hills,P24M,Other Circulation,2013,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2013,59626
 Arlington Hills,P26M,Total Programs (Manually Input),2013,NA
+Arlington Hills,NA,Public Internet Computers,2013,27
+Arlington Hills,NA,Mobile Devices,2013,5
 Dayton's Bluff,P01M,Population of the Legal Service Area,2013,14457
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2013,10729
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2013,3275
@@ -814,6 +872,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2013,27
 Dayton's Bluff,C05M,Other Physical Materials,2013,9
 Dayton's Bluff,C06M,Total Materials (Manually Input),2013,32313
 Dayton's Bluff,C07M,Print Serial Subscriptions,2013,30
+Dayton's Bluff,NA,Public Internet Computers,2013,27
+Dayton's Bluff,NA,Mobile Devices,2013,2
 Hamline Midway,P01M,Population of the Legal Service Area,2013,15989
 Hamline Midway,P02aM,Registered Borrowers - Residents,2013,9026
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2013,1476
@@ -825,7 +885,7 @@ Hamline Midway,P09M,Users of Public Internet Computers,2013,11897
 Hamline Midway,P15M,Children's Circulation,2013,45500
 Hamline Midway,P16M,Children's Library Programs,2013,125
 Hamline Midway,P17M,Children's Program Attendance,2013,2963
-Hamline Midway,P18M,Yound Adult Library Programs,2013,18
+Hamline Midway,P18M,Young Adult Library Programs,2013,18
 Hamline Midway,P19M,Young Adult Program Attendance,2013,210
 Hamline Midway,P20M,Adult Circulation,2013,48363
 Hamline Midway,P21M,Adult Library Programs,2013,58
@@ -842,6 +902,8 @@ Hamline Midway,C05M,Other Physical Materials,2013,8
 Hamline Midway,C06M,Total Materials (Manually Input),2013,26449
 Hamline Midway,C07M,Print Serial Subscriptions,2013,44
 Hamline Midway,NA,Wireless Sessions,2013,NA
+Hamline Midway,NA,Public Internet Computers,2013,18
+Hamline Midway,NA,Mobile Devices,2013,6
 Hayden Heights,P01M,Population of the Legal Service Area,2013,29960
 Hayden Heights,P02aM,Registered Borrowers - Residents,2013,18538
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2013,5123
@@ -870,6 +932,8 @@ Hayden Heights,C04M,Multi-format Materials,2013,15
 Hayden Heights,C05M,Other Physical Materials,2013,33
 Hayden Heights,C06M,Total Materials (Manually Input),2013,48197
 Hayden Heights,C07M,Print Serial Subscriptions,2013,60
+Hayden Heights,NA,Public Internet Computers,2013,24
+Hayden Heights,NA,Mobile Devices,2013,9
 Highland,P01M,Population of the Legal Service Area,2013,37210
 Highland,P02aM,Registered Borrowers - Residents,2013,29237
 Highland,P02bM,Registered Borrowers - Reciprocal,2013,9127
@@ -882,7 +946,7 @@ Highland,NA,Wireless Sessions,2013,NA
 Highland,P15M,Children's Circulation,2013,172672
 Highland,P16M,Children's Library Programs,2013,126
 Highland,P17M,Children's Program Attendance,2013,5013
-Highland,P18M,Yound Adult Library Programs,2013,19
+Highland,P18M,Young Adult Library Programs,2013,19
 Highland,P19M,Young Adult Program Attendance,2013,243
 Highland,P20M,Adult Circulation,2013,240465
 Highland,P21M,Adult Library Programs,2013,68
@@ -898,6 +962,8 @@ Highland,C04M,Multi-format Materials,2013,16
 Highland,C05M,Other Physical Materials,2013,5
 Highland,C06M,Total Materials (Manually Input),2013,68881
 Highland,C07M,Print Serial Subscriptions,2013,84
+Highland,NA,Public Internet Computers,2013,25
+Highland,NA,Mobile Devices,2013,0
 Merriam Park,P01M,Population of the Legal Service Area,2013,30547
 Merriam Park,P02aM,Registered Borrowers - Residents,2013,20570
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2013,5867
@@ -926,6 +992,8 @@ Merriam Park,C04M,Multi-format Materials,2013,9
 Merriam Park,C05M,Other Physical Materials,2013,15
 Merriam Park,C06M,Total Materials (Manually Input),2013,78134
 Merriam Park,C07M,Print Serial Subscriptions,2013,106
+Merriam Park,NA,Public Internet Computers,2013,20
+Merriam Park,NA,Mobile Devices,2013,0
 Rice Street,P01M,Population of the Legal Service Area,2013,29755
 Rice Street,P02aM,Registered Borrowers - Residents,2013,18745
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2013,3677
@@ -954,6 +1022,8 @@ Rice Street,C04M,Multi-format Materials,2013,22
 Rice Street,C05M,Other Physical Materials,2013,10
 Rice Street,C06M,Total Materials (Manually Input),2013,44310
 Rice Street,C07M,Print Serial Subscriptions,2013,42
+Rice Street,NA,Public Internet Computers,2013,38
+Rice Street,NA,Mobile Devices,2013,8
 Riverview,P01M,Population of the Legal Service Area,2013,14959
 Riverview,P02aM,Registered Borrowers - Residents,2013,11383
 Riverview,P02bM,Registered Borrowers - Reciprocal,2013,1894
@@ -982,6 +1052,8 @@ Riverview,C04M,Multi-format Materials,2013,NA
 Riverview,C05M,Other Physical Materials,2013,NA
 Riverview,C06M,Total Materials (Manually Input),2013,25673
 Riverview,C07M,Print Serial Subscriptions,2013,NA
+Riverview,NA,Public Internet Computers,2013,15
+Riverview,NA,Mobile Devices,2013,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2013,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2013,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2013,NA
@@ -992,13 +1064,13 @@ St. Anthony Park,P08M,Stations,2013,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2013,6038
 St. Anthony Park,NA,Wireless Sessions,2013,NA
 St. Anthony Park,P15M,Children's Circulation,2013,64098
-St. Anthony Park,P16M,Children's Library Programs,2013,NA
-St. Anthony Park,P17M,Children's Program Attendance,2013,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2013,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2013,NA
+St. Anthony Park,P16M,Children's Library Programs,2013,105
+St. Anthony Park,P17M,Children's Program Attendance,2013,4384
+St. Anthony Park,P18M,Yound Adult Library Programs,2013,1
+St. Anthony Park,P19M,Young Adult Program Attendance,2013,4
 St. Anthony Park,P20M,Adult Circulation,2013,55238
-St. Anthony Park,P21M,Adult Library Programs,2013,NA
-St. Anthony Park,P22M,Adult Program Attendance,2013,NA
+St. Anthony Park,P21M,Adult Library Programs,2013,65
+St. Anthony Park,P22M,Adult Program Attendance,2013,1021
 St. Anthony Park,P23M,Other Circulation,2013,NA
 St. Anthony Park,P24M,Total Circulation,2013,119336
 St. Anthony Park,C01M,Print Materials,2013,30823
@@ -1008,6 +1080,8 @@ St. Anthony Park,C04M,Multi-format Materials,2013,NA
 St. Anthony Park,C05M,Other Physical Materials,2013,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2013,37176
 St. Anthony Park,C07M,Print Serial Subscriptions,2013,NA
+St. Anthony Park,NA,Public Internet Computers,2013,16
+St. Anthony Park,NA,Mobile Devices,2013,1
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2013,0
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2013,10053
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2013,683
@@ -1034,6 +1108,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2013,1
 St. Paul Bookmobile,C05M,Other Physical Materials,2013,5
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2013,20558
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2013,24
+St. Paul Bookmobile,NA,Public Internet Computers,2013,NA
+St. Paul Bookmobile,NA,Mobile Devices,2013,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2013,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2013,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2013,NA
@@ -1043,13 +1119,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2013,NA
 Rondo Community Outreach,P08M,Stations,2013,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2013,66293
 Rondo Community Outreach,P15M,Children's Circulation,2013,88079
-Rondo Community Outreach,P16M,Children's Library Programs,2013,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2013,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2013,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2013,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2013,384
+Rondo Community Outreach,P17M,Children's Program Attendance,2013,7264
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2013,72
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2013,998
 Rondo Community Outreach,P20M,Adult Circulation,2013,90824
-Rondo Community Outreach,P21M,Adult Library Programs,2013,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2013,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2013,266
+Rondo Community Outreach,P22M,Adult Program Attendance,2013,3632
 Rondo Community Outreach,P23M,Other Circulation,2013,NA
 Rondo Community Outreach,P24M,Total Circulation,2013,178903
 Rondo Community Outreach,C01M,Print Materials,2013,66700
@@ -1059,6 +1135,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2013,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2013,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2013,84287
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2013,NA
+Rondo Community Outreach,NA,Public Internet Computers,2013,68
+Rondo Community Outreach,NA,Mobile Devices,2013,3
 Central,P01M,Population of the Legal Service Area,2013,NA
 Central,P02aM,Registered Borrowers - Residents,2013,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2013,NA
@@ -1069,13 +1147,13 @@ Central,P08M,Stations,2013,NA
 Central,P09M,Users of Public Internet Computers,2013,40891
 Central,NA,Wireless Sessions,2013,NA
 Central,P15M,Children's Circulation,2013,71489
-Central,P16M,Children's Library Programs,2013,NA
-Central,P17M,Children's Program Attendance,2013,NA
-Central,P18M,Yound Adult Library Programs,2013,NA
-Central,P19M,Young Adult Program Attendance,2013,NA
+Central,P16M,Children's Library Programs,2013,282
+Central,P17M,Children's Program Attendance,2013,9962
+Central,P18M,Young Adult Library Programs,2013,250
+Central,P19M,Young Adult Program Attendance,2013,4010
 Central,P20M,Adult Circulation,2013,134784
-Central,P21M,Adult Library Programs,2013,NA
-Central,P22M,Adult Program Attendance,2013,NA
+Central,P21M,Adult Library Programs,2013,253
+Central,P22M,Adult Program Attendance,2013,3815
 Central,P23M,Other Circulation,2013,NA
 Central,P24M,Total Circulation,2013,206273
 Central,C01M,Print Materials,2013,329740
@@ -1085,6 +1163,8 @@ Central,C04M,Multi-format Materials,2013,NA
 Central,C05M,Other Physical Materials,2013,NA
 Central,C06M,Total Materials (Manually Input),2013,345070
 Central,C07M,Print Serial Subscriptions,2013,NA
+Central,NA,Public Internet Computers,2013,65
+Central,NA,Mobile Devices,2013,11
 Sun Ray,P01M,Population of the Legal Service Area,2013,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2013,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2013,NA
@@ -1092,16 +1172,16 @@ Sun Ray,P02cM,Total Registered Borrowers (Manually Input),2013,30069
 Sun Ray,P04M,Library Visits,2013,224115
 Sun Ray,P06M,Reference Transactions,2013,NA
 Sun Ray,P08M,Stations,2013,NA
-Sun Ray,P09M,Users of Public Internet Computers,2013,0
+Sun Ray,P09M,Users of Public Internet Computers,2013,32530
 Sun Ray,NA,Wireless Sessions,2013,NA
 Sun Ray,P15M,Children's Circulation,2013,166399
-Sun Ray,P16M,Children's Library Programs,2013,NA
-Sun Ray,P17M,Children's Program Attendance,2013,NA
-Sun Ray,P18M,Yound Adult Library Programs,2013,NA
-Sun Ray,P19M,Young Adult Program Attendance,2013,NA
+Sun Ray,P16M,Children's Library Programs,2013,265
+Sun Ray,P17M,Children's Program Attendance,2013,4094
+Sun Ray,P18M,Yound Adult Library Programs,2013,3
+Sun Ray,P19M,Young Adult Program Attendance,2013,32
 Sun Ray,P20M,Adult Circulation,2013,314003
-Sun Ray,P21M,Adult Library Programs,2013,NA
-Sun Ray,P22M,Adult Program Attendance,2013,NA
+Sun Ray,P21M,Adult Library Programs,2013,190
+Sun Ray,P22M,Adult Program Attendance,2013,3687
 Sun Ray,P23M,Other Circulation,2013,NA
 Sun Ray,P24M,Total Circulation,2013,480402
 Sun Ray,C01M,Print Materials,2013,11502
@@ -1111,6 +1191,8 @@ Sun Ray,C04M,Multi-format Materials,2013,NA
 Sun Ray,C05M,Other Physical Materials,2013,NA
 Sun Ray,C06M,Total Materials (Manually Input),2013,12598
 Sun Ray,C07M,Print Serial Subscriptions,2013,NA
+Sun Ray,NA,Public Internet Computers,2013,30
+Sun Ray,NA,Mobile Devices,2013,4
 West 7th Street Popular,P01M,Population of the Legal Service Area,2013,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2013,3557
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2013,534
@@ -1139,6 +1221,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2013,0
 West 7th Street Popular,C05M,Other Physical Materials,2013,8
 West 7th Street Popular,C06M,Total Materials (Manually Input),2013,11085
 West 7th Street Popular,C07M,Print Serial Subscriptions,2013,11
+West 7th Street Popular,NA,Public Internet Computers,2013,17
+West 7th Street Popular,NA,Mobile Devices,2013,0
 Arlington Hills,C01M,Print Materials,2012,19481
 Arlington Hills,C02M,Audio Materials,2012,NA
 Arlington Hills,C03M,Video Materials,2012,5236
@@ -1156,16 +1240,18 @@ Arlington Hills,P08M,Stations,2012,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2012,24652
 Arlington Hills,P15M,Wireless Sessions,2012,NA
 Arlington Hills,P16M,Children's Circulation,2012,35544
-Arlington Hills,P17M,Children's Library Programs,2012,NA
-Arlington Hills,P18M,Children's Program Attendance,2012,NA
-Arlington Hills,P19M,Young Adult Library Programs,2012,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2012,NA
+Arlington Hills,P17M,Children's Library Programs,2012,133
+Arlington Hills,P18M,Children's Program Attendance,2012,2680
+Arlington Hills,P19M,Young Adult Library Programs,2012,24
+Arlington Hills,P20M,Young Adult Program Attendance,2012,475
 Arlington Hills,P21M,Adult Circulation,2012,28398
-Arlington Hills,P22M,Adult Library Programs,2012,NA
-Arlington Hills,P23M,Adult Program Attendance,2012,NA
+Arlington Hills,P22M,Adult Library Programs,2012,326
+Arlington Hills,P23M,Adult Program Attendance,2012,4410
 Arlington Hills,P24M,Other Circulation,2012,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2012,63942
 Arlington Hills,P26M,Total Programs (Manually Input),2012,NA
+Arlington Hills,NA,Public Internet Computers,2012,30
+Arlington Hills,NA,Mobile Devices,2012,5
 Dayton's Bluff,P01M,Population of the Legal Service Area,2012,14457
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2012,9685
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2012,2919
@@ -1194,6 +1280,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2012,38
 Dayton's Bluff,C05M,Other Physical Materials,2012,9
 Dayton's Bluff,C06M,Total Materials (Manually Input),2012,35286
 Dayton's Bluff,C07M,Print Serial Subscriptions,2012,30
+Dayton's Bluff,NA,Public Internet Computers,2012,30
+Dayton's Bluff,NA,Mobile Devices,2012,2
 Hamline Midway,P01M,Population of the Legal Service Area,2012,15989
 Hamline Midway,P02aM,Registered Borrowers - Residents,2012,8425
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2012,1371
@@ -1205,7 +1293,7 @@ Hamline Midway,P09M,Users of Public Internet Computers,2012,13955
 Hamline Midway,P15M,Children's Circulation,2012,45192
 Hamline Midway,P16M,Children's Library Programs,2012,121
 Hamline Midway,P17M,Children's Program Attendance,2012,2242
-Hamline Midway,P18M,Yound Adult Library Programs,2012,11
+Hamline Midway,P18M,Young Adult Library Programs,2012,11
 Hamline Midway,P19M,Young Adult Program Attendance,2012,181
 Hamline Midway,P20M,Adult Circulation,2012,50909
 Hamline Midway,P21M,Adult Library Programs,2012,48
@@ -1222,6 +1310,8 @@ Hamline Midway,C05M,Other Physical Materials,2012,8
 Hamline Midway,C06M,Total Materials (Manually Input),2012,25515
 Hamline Midway,C07M,Print Serial Subscriptions,2012,45
 Hamline Midway,NA,Wireless Sessions,2012,NA
+Hamline Midway,NA,Public Internet Computers,2012,24
+Hamline Midway,NA,Mobile Devices,2012,6
 Hayden Heights,P01M,Population of the Legal Service Area,2012,29960
 Hayden Heights,P02aM,Registered Borrowers - Residents,2012,17381
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2012,4750
@@ -1250,6 +1340,8 @@ Hayden Heights,C04M,Multi-format Materials,2012,15
 Hayden Heights,C05M,Other Physical Materials,2012,11
 Hayden Heights,C06M,Total Materials (Manually Input),2012,46490
 Hayden Heights,C07M,Print Serial Subscriptions,2012,72
+Hayden Heights,NA,Public Internet Computers,2012,32
+Hayden Heights,NA,Mobile Devices,2012,9
 Highland,P01M,Population of the Legal Service Area,2012,37210
 Highland,P02aM,Registered Borrowers - Residents,2012,28703
 Highland,P02bM,Registered Borrowers - Reciprocal,2012,7755
@@ -1262,7 +1354,7 @@ Highland,NA,Wireless Sessions,2012,NA
 Highland,P15M,Children's Circulation,2012,195993
 Highland,P16M,Children's Library Programs,2012,110
 Highland,P17M,Children's Program Attendance,2012,3817
-Highland,P18M,Yound Adult Library Programs,2012,25
+Highland,P18M,Young Adult Library Programs,2012,25
 Highland,P19M,Young Adult Program Attendance,2012,464
 Highland,P20M,Adult Circulation,2012,279333
 Highland,P21M,Adult Library Programs,2012,96
@@ -1278,6 +1370,8 @@ Highland,C04M,Multi-format Materials,2012,20
 Highland,C05M,Other Physical Materials,2012,10
 Highland,C06M,Total Materials (Manually Input),2012,98859
 Highland,C07M,Print Serial Subscriptions,2012,84
+Highland,NA,Public Internet Computers,2012,26
+Highland,NA,Mobile Devices,2012,0
 Merriam Park,P01M,Population of the Legal Service Area,2012,30547
 Merriam Park,P02aM,Registered Borrowers - Residents,2012,19052
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2012,5362
@@ -1306,6 +1400,8 @@ Merriam Park,C04M,Multi-format Materials,2012,9
 Merriam Park,C05M,Other Physical Materials,2012,10
 Merriam Park,C06M,Total Materials (Manually Input),2012,69624
 Merriam Park,C07M,Print Serial Subscriptions,2012,126
+Merriam Park,NA,Public Internet Computers,2012,20
+Merriam Park,NA,Mobile Devices,2012,0
 Rice Street,P01M,Population of the Legal Service Area,2012,29755
 Rice Street,P02aM,Registered Borrowers - Residents,2012,18010
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2012,3365
@@ -1334,6 +1430,8 @@ Rice Street,C04M,Multi-format Materials,2012,22
 Rice Street,C05M,Other Physical Materials,2012,10
 Rice Street,C06M,Total Materials (Manually Input),2012,45722
 Rice Street,C07M,Print Serial Subscriptions,2012,44
+Rice Street,NA,Public Internet Computers,2012,44
+Rice Street,NA,Mobile Devices,2012,8
 Riverview,P01M,Population of the Legal Service Area,2012,14959
 Riverview,P02aM,Registered Borrowers - Residents,2012,10908
 Riverview,P02bM,Registered Borrowers - Reciprocal,2012,1789
@@ -1362,6 +1460,8 @@ Riverview,C04M,Multi-format Materials,2012,NA
 Riverview,C05M,Other Physical Materials,2012,NA
 Riverview,C06M,Total Materials (Manually Input),2012,24545
 Riverview,C07M,Print Serial Subscriptions,2012,NA
+Riverview,NA,Public Internet Computers,2012,16
+Riverview,NA,Mobile Devices,2012,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2012,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2012,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2012,NA
@@ -1372,13 +1472,13 @@ St. Anthony Park,P08M,Stations,2012,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2012,8125
 St. Anthony Park,NA,Wireless Sessions,2012,NA
 St. Anthony Park,P15M,Children's Circulation,2012,83784
-St. Anthony Park,P16M,Children's Library Programs,2012,NA
-St. Anthony Park,P17M,Children's Program Attendance,2012,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2012,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2012,NA
+St. Anthony Park,P16M,Children's Library Programs,2012,132
+St. Anthony Park,P17M,Children's Program Attendance,2012,5995
+St. Anthony Park,P18M,Yound Adult Library Programs,2012,4
+St. Anthony Park,P19M,Young Adult Program Attendance,2012,40
 St. Anthony Park,P20M,Adult Circulation,2012,79179
-St. Anthony Park,P21M,Adult Library Programs,2012,NA
-St. Anthony Park,P22M,Adult Program Attendance,2012,NA
+St. Anthony Park,P21M,Adult Library Programs,2012,48
+St. Anthony Park,P22M,Adult Program Attendance,2012,560
 St. Anthony Park,P23M,Other Circulation,2012,NA
 St. Anthony Park,P24M,Total Circulation,2012,162963
 St. Anthony Park,C01M,Print Materials,2012,31744
@@ -1388,6 +1488,8 @@ St. Anthony Park,C04M,Multi-format Materials,2012,NA
 St. Anthony Park,C05M,Other Physical Materials,2012,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2012,37916
 St. Anthony Park,C07M,Print Serial Subscriptions,2012,NA
+St. Anthony Park,NA,Public Internet Computers,2012,17
+St. Anthony Park,NA,Mobile Devices,2012,2
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2012,0
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2012,9288
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2012,623
@@ -1414,6 +1516,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2012,1
 St. Paul Bookmobile,C05M,Other Physical Materials,2012,5
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2012,20118
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2012,24
+St. Paul Bookmobile,NA,Public Internet Computers,2012,NA
+St. Paul Bookmobile,NA,Mobile Devices,2012,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2012,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2012,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2012,NA
@@ -1423,13 +1527,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2012,NA
 Rondo Community Outreach,P08M,Stations,2012,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2012,66151
 Rondo Community Outreach,P15M,Children's Circulation,2012,78665
-Rondo Community Outreach,P16M,Children's Library Programs,2012,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2012,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2012,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2012,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2012,298
+Rondo Community Outreach,P17M,Children's Program Attendance,2012,5301
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2012,20
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2012,574
 Rondo Community Outreach,P20M,Adult Circulation,2012,87307
-Rondo Community Outreach,P21M,Adult Library Programs,2012,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2012,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2012,514
+Rondo Community Outreach,P22M,Adult Program Attendance,2012,7838
 Rondo Community Outreach,P23M,Other Circulation,2012,NA
 Rondo Community Outreach,P24M,Total Circulation,2012,165972
 Rondo Community Outreach,C01M,Print Materials,2012,64828
@@ -1439,6 +1543,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2012,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2012,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2012,79993
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2012,NA
+Rondo Community Outreach,NA,Public Internet Computers,2012,72
+Rondo Community Outreach,NA,Mobile Devices,2012,3
 Central,P01M,Population of the Legal Service Area,2012,NA
 Central,P02aM,Registered Borrowers - Residents,2012,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2012,NA
@@ -1449,13 +1555,13 @@ Central,P08M,Stations,2012,NA
 Central,P09M,Users of Public Internet Computers,2012,45371
 Central,NA,Wireless Sessions,2012,NA
 Central,P15M,Children's Circulation,2012,75539
-Central,P16M,Children's Library Programs,2012,NA
-Central,P17M,Children's Program Attendance,2012,NA
-Central,P18M,Yound Adult Library Programs,2012,NA
-Central,P19M,Young Adult Program Attendance,2012,NA
+Central,P16M,Children's Library Programs,2012,286
+Central,P17M,Children's Program Attendance,2012,11330
+Central,P18M,Young Adult Library Programs,2012,196
+Central,P19M,Young Adult Program Attendance,2012,3817
 Central,P20M,Adult Circulation,2012,151705
-Central,P21M,Adult Library Programs,2012,NA
-Central,P22M,Adult Program Attendance,2012,NA
+Central,P21M,Adult Library Programs,2012,829
+Central,P22M,Adult Program Attendance,2012,7865
 Central,P23M,Other Circulation,2012,NA
 Central,P24M,Total Circulation,2012,227244
 Central,C01M,Print Materials,2012,342284
@@ -1465,6 +1571,8 @@ Central,C04M,Multi-format Materials,2012,NA
 Central,C05M,Other Physical Materials,2012,NA
 Central,C06M,Total Materials (Manually Input),2012,356375
 Central,C07M,Print Serial Subscriptions,2012,NA
+Central,NA,Public Internet Computers,2012,76
+Central,NA,Mobile Devices,2012,11
 Sun Ray,P01M,Population of the Legal Service Area,2012,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2012,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2012,NA
@@ -1472,16 +1580,16 @@ Sun Ray,P02cM,Total Registered Borrowers (Manually Input),2012,28241
 Sun Ray,P04M,Library Visits,2012,228607
 Sun Ray,P06M,Reference Transactions,2012,NA
 Sun Ray,P08M,Stations,2012,NA
-Sun Ray,P09M,Users of Public Internet Computers,2012,0
+Sun Ray,P09M,Users of Public Internet Computers,2012,38389
 Sun Ray,NA,Wireless Sessions,2012,NA
 Sun Ray,P15M,Children's Circulation,2012,160244
-Sun Ray,P16M,Children's Library Programs,2012,NA
-Sun Ray,P17M,Children's Program Attendance,2012,NA
-Sun Ray,P18M,Yound Adult Library Programs,2012,NA
-Sun Ray,P19M,Young Adult Program Attendance,2012,NA
+Sun Ray,P16M,Children's Library Programs,2012,347
+Sun Ray,P17M,Children's Program Attendance,2012,3718
+Sun Ray,P18M,Yound Adult Library Programs,2012,2
+Sun Ray,P19M,Young Adult Program Attendance,2012,25
 Sun Ray,P20M,Adult Circulation,2012,292435
-Sun Ray,P21M,Adult Library Programs,2012,NA
-Sun Ray,P22M,Adult Program Attendance,2012,NA
+Sun Ray,P21M,Adult Library Programs,2012,167
+Sun Ray,P22M,Adult Program Attendance,2012,3483
 Sun Ray,P23M,Other Circulation,2012,NA
 Sun Ray,P24M,Total Circulation,2012,452679
 Sun Ray,C01M,Print Materials,2012,10460
@@ -1491,6 +1599,8 @@ Sun Ray,C04M,Multi-format Materials,2012,NA
 Sun Ray,C05M,Other Physical Materials,2012,NA
 Sun Ray,C06M,Total Materials (Manually Input),2012,11430
 Sun Ray,C07M,Print Serial Subscriptions,2012,NA
+Sun Ray,NA,Public Internet Computers,2012,34
+Sun Ray,NA,Mobile Devices,2012,4
 West 7th Street Popular,P01M,Population of the Legal Service Area,2012,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2012,3272
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2012,482
@@ -1519,6 +1629,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2012,0
 West 7th Street Popular,C05M,Other Physical Materials,2012,9
 West 7th Street Popular,C06M,Total Materials (Manually Input),2012,10622
 West 7th Street Popular,C07M,Print Serial Subscriptions,2012,11
+West 7th Street Popular,NA,Public Internet Computers,2012,17
+West 7th Street Popular,NA,Mobile Devices,2012,0
 Arlington Hills,C01M,Print Materials,2015,22709
 Arlington Hills,C02M,Audio Materials,2015,NA
 Arlington Hills,C03M,Video Materials,2015,7618
@@ -1536,16 +1648,18 @@ Arlington Hills,P08M,Stations,2015,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2015,23830
 Arlington Hills,P15M,Wireless Sessions,2015,NA
 Arlington Hills,P16M,Children's Circulation,2015,54840
-Arlington Hills,P17M,Children's Library Programs,2015,NA
-Arlington Hills,P18M,Children's Program Attendance,2015,NA
-Arlington Hills,P19M,Young Adult Library Programs,2015,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2015,NA
+Arlington Hills,P17M,Children's Library Programs,2015,310
+Arlington Hills,P18M,Children's Program Attendance,2015,5485
+Arlington Hills,P19M,Young Adult Library Programs,2015,256
+Arlington Hills,P20M,Young Adult Program Attendance,2015,13125
 Arlington Hills,P21M,Adult Circulation,2015,41696
-Arlington Hills,P22M,Adult Library Programs,2015,NA
-Arlington Hills,P23M,Adult Program Attendance,2015,NA
+Arlington Hills,P22M,Adult Library Programs,2015,367
+Arlington Hills,P23M,Adult Program Attendance,2015,4529
 Arlington Hills,P24M,Other Circulation,2015,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2015,96536
 Arlington Hills,P26M,Total Programs (Manually Input),2015,NA
+Arlington Hills,NA,Public Internet Computers,2015,23
+Arlington Hills,NA,Mobile Devices,2015,23
 Dayton's Bluff,P01M,Population of the Legal Service Area,2015,NA
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2015,NA
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1556,13 +1670,13 @@ Dayton's Bluff,P08M,Stations,2015,NA
 Dayton's Bluff,P09M,Annual Public Internet Computer Sessions,2015,13768
 Dayton's Bluff,NA,Wireless Sessions,2015,NA
 Dayton's Bluff,P15M,Children's Circulation,2015,28974
-Dayton's Bluff,P16M,Children's Library Programs,2015,NA
-Dayton's Bluff,P17M,Children's Program Attendance,2015,NA
-Dayton's Bluff,P18M,Young Adult Library Programs,2015,NA
-Dayton's Bluff,P19M,Young Adult Program Attendance,2015,NA
+Dayton's Bluff,P16M,Children's Library Programs,2015,185
+Dayton's Bluff,P17M,Children's Program Attendance,2015,2874
+Dayton's Bluff,P18M,Young Adult Library Programs,2015,13
+Dayton's Bluff,P19M,Young Adult Program Attendance,2015,501
 Dayton's Bluff,P20M,Adult Circulation,2015,35304
-Dayton's Bluff,P21M,Adult Library Programs,2015,NA
-Dayton's Bluff,P22M,Adult Program Attendance,2015,NA
+Dayton's Bluff,P21M,Adult Library Programs,2015,144
+Dayton's Bluff,P22M,Adult Program Attendance,2015,1542
 Dayton's Bluff,P23M,Other Circulation,2015,NA
 Dayton's Bluff,P24M,Total Circulation (Manually Input),2015,64278
 Dayton's Bluff,P25M,Total Programs (Manually Input),2015,NA
@@ -1574,6 +1688,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2015,NA
 Dayton's Bluff,C05M,Other Physical Materials,2015,NA
 Dayton's Bluff,C06M,Total Materials (Manually Input),2015,34109
 Dayton's Bluff,C07M,Print Serial Subscriptions,2015,NA
+Dayton's Bluff,NA,Public Internet Computers,2015,27
+Dayton's Bluff,NA,Mobile Devices,2015,2
 Hamline Midway,P01M,Population of the Legal Service Area,2015,NA
 Hamline Midway,P02aM,Registered Borrowers - Residents,2015,NA
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1583,13 +1699,13 @@ Hamline Midway,P06M,Reference Transactions,2015,NA
 Hamline Midway,P08M,Stations,2015,NA
 Hamline Midway,P09M,Users of Public Internet Computers,2015,11502
 Hamline Midway,P15M,Children's Circulation,2015,45591
-Hamline Midway,P16M,Children's Library Programs,2015,NA
-Hamline Midway,P17M,Children's Program Attendance,2015,NA
-Hamline Midway,P18M,Yound Adult Library Programs,2015,NA
-Hamline Midway,P19M,Young Adult Program Attendance,2015,NA
+Hamline Midway,P16M,Children's Library Programs,2015,99
+Hamline Midway,P17M,Children's Program Attendance,2015,3373
+Hamline Midway,P18M,Young Adult Library Programs,2015,10
+Hamline Midway,P19M,Young Adult Program Attendance,2015,99
 Hamline Midway,P20M,Adult Circulation,2015,49380
-Hamline Midway,P21M,Adult Library Programs,2015,NA
-Hamline Midway,P22M,Adult Program Attendance,2015,NA
+Hamline Midway,P21M,Adult Library Programs,2015,89
+Hamline Midway,P22M,Adult Program Attendance,2015,2333
 Hamline Midway,P23M,Other Circulation,2015,NA
 Hamline Midway,P24M,Total Circulation,2015,94971
 Hamline Midway,NA,Total Programs (Manually Input),2015,NA
@@ -1602,6 +1718,8 @@ Hamline Midway,C05M,Other Physical Materials,2015,NA
 Hamline Midway,C06M,Total Materials (Manually Input),2015,28370
 Hamline Midway,C07M,Print Serial Subscriptions,2015,NA
 Hamline Midway,NA,Wireless Sessions,2015,NA
+Hamline Midway,NA,Public Internet Computers,2015,19
+Hamline Midway,NA,Mobile Devices,2015,6
 Hayden Heights,P01M,Population of the Legal Service Area,2015,NA
 Hayden Heights,P02aM,Registered Borrowers - Residents,2015,NA
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1612,13 +1730,13 @@ Hayden Heights,P08M,Stations,2015,NA
 Hayden Heights,P09M,Users of Public Internet Computers,2015,17196
 Hayden Heights,NA,Wireless Sessions,2015,NA
 Hayden Heights,P15M,Children's Circulation,2015,46684
-Hayden Heights,P16M,Children's Library Programs,2015,NA
-Hayden Heights,P17M,Children's Program Attendance,2015,NA
-Hayden Heights,P18M,Yound Adult Library Programs,2015,NA
-Hayden Heights,P19M,Young Adult Program Attendance,2015,NA
+Hayden Heights,P16M,Children's Library Programs,2015,140
+Hayden Heights,P17M,Children's Program Attendance,2015,1859
+Hayden Heights,P18M,Yound Adult Library Programs,2015,3
+Hayden Heights,P19M,Young Adult Program Attendance,2015,19
 Hayden Heights,P20M,Adult Circulation,2015,39727
-Hayden Heights,P21M,Adult Library Programs,2015,NA
-Hayden Heights,P22M,Adult Program Attendance,2015,NA
+Hayden Heights,P21M,Adult Library Programs,2015,41
+Hayden Heights,P22M,Adult Program Attendance,2015,639
 Hayden Heights,P23M,Other Circulation,2015,NA
 Hayden Heights,P24M,Total Circulation,2015,86411
 Hayden Heights,NA,Total Programs (Manually Input),2015,NA
@@ -1630,6 +1748,8 @@ Hayden Heights,C04M,Multi-format Materials,2015,NA
 Hayden Heights,C05M,Other Physical Materials,2015,NA
 Hayden Heights,C06M,Total Materials (Manually Input),2015,48205
 Hayden Heights,C07M,Print Serial Subscriptions,2015,NA
+Hayden Heights,NA,Public Internet Computers,2015,30
+Hayden Heights,NA,Mobile Devices,2015,22
 Highland,P01M,Population of the Legal Service Area,2015,NA
 Highland,P02aM,Registered Borrowers - Residents,2015,NA
 Highland,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1640,13 +1760,13 @@ Highland,P08M,Stations,2015,NA
 Highland,P09M,Users of Public Internet Computers,2015,26553
 Highland,NA,Wireless Sessions,2015,NA
 Highland,P15M,Children's Circulation,2015,215967
-Highland,P16M,Children's Library Programs,2015,NA
-Highland,P17M,Children's Program Attendance,2015,NA
-Highland,P18M,Yound Adult Library Programs,2015,NA
-Highland,P19M,Young Adult Program Attendance,2015,NA
+Highland,P16M,Children's Library Programs,2015,257
+Highland,P17M,Children's Program Attendance,2015,8985
+Highland,P18M,Young Adult Library Programs,2015,82
+Highland,P19M,Young Adult Program Attendance,2015,596
 Highland,P20M,Adult Circulation,2015,200146
-Highland,P21M,Adult Library Programs,2015,NA
-Highland,P22M,Adult Program Attendance,2015,NA
+Highland,P21M,Adult Library Programs,2015,75
+Highland,P22M,Adult Program Attendance,2015,1651
 Highland,P23M,Other Circulation,2015,NA
 Highland,P24M,Total Circulation,2015,416113
 Highland,NA,Total Programs (Manually Input),2015,NA
@@ -1658,6 +1778,8 @@ Highland,C04M,Multi-format Materials,2015,NA
 Highland,C05M,Other Physical Materials,2015,NA
 Highland,C06M,Total Materials (Manually Input),2015,75129
 Highland,C07M,Print Serial Subscriptions,2015,NA
+Highland,NA,Public Internet Computers,2015,40
+Highland,NA,Mobile Devices,2015,28
 Merriam Park,P01M,Population of the Legal Service Area,2015,NA
 Merriam Park,P02aM,Registered Borrowers - Residents,2015,NA
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1668,13 +1790,13 @@ Merriam Park,P08M,Stations,2015,NA
 Merriam Park,P09M,Users of Public Internet Computers,2015,17282
 Merriam Park,P15M,Children's Circulation,2015,123611
 Merriam Park,NA,Wireless Sessions,2015,NA
-Merriam Park,P16M,Children's Library Programs,2015,NA
-Merriam Park,P17M,Children's Program Attendance,2015,NA
-Merriam Park,P18M,Yound Adult Library Programs,2015,NA
-Merriam Park,P19M,Young Adult Program Attendance,2015,NA
+Merriam Park,P16M,Children's Library Programs,2015,111
+Merriam Park,P17M,Children's Program Attendance,2015,4456
+Merriam Park,P18M,Yound Adult Library Programs,2015,1
+Merriam Park,P19M,Young Adult Program Attendance,2015,4
 Merriam Park,P20M,Adult Circulation,2015,204627
-Merriam Park,P21M,Adult Library Programs,2015,NA
-Merriam Park,P22M,Adult Program Attendance,2015,NA
+Merriam Park,P21M,Adult Library Programs,2015,133
+Merriam Park,P22M,Adult Program Attendance,2015,1558
 Merriam Park,P23M,Other Circulation,2015,NA
 Merriam Park,P24M,Total Circulation,2015,328238
 Merriam Park,NA,Total Programs (Manually Input),2015,NA
@@ -1686,6 +1808,8 @@ Merriam Park,C04M,Multi-format Materials,2015,NA
 Merriam Park,C05M,Other Physical Materials,2015,NA
 Merriam Park,C06M,Total Materials (Manually Input),2015,76369
 Merriam Park,C07M,Print Serial Subscriptions,2015,NA
+Merriam Park,NA,Public Internet Computers,2015,20
+Merriam Park,NA,Mobile Devices,2015,0
 Rice Street,P01M,Population of the Legal Service Area,2015,NA
 Rice Street,P02aM,Registered Borrowers - Residents,2015,NA
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1696,13 +1820,13 @@ Rice Street,P08M,Stations,2015,NA
 Rice Street,P09M,Users of Public Internet Computers,2015,26503
 Rice Street,NA,Wireless Sessions,2015,NA
 Rice Street,P15M,Children's Circulation,2015,52410
-Rice Street,P16M,Children's Library Programs,2015,NA
-Rice Street,P17M,Children's Program Attendance,2015,NA
-Rice Street,P18M,Yound Adult Library Programs,2015,NA
-Rice Street,P19M,Young Adult Program Attendance,2015,NA
+Rice Street,P16M,Children's Library Programs,2015,364
+Rice Street,P17M,Children's Program Attendance,2015,4690
+Rice Street,P18M,Yound Adult Library Programs,2015,92
+Rice Street,P19M,Young Adult Program Attendance,2015,889
 Rice Street,P20M,Adult Circulation,2015,52044
-Rice Street,P21M,Adult Library Programs,2015,NA
-Rice Street,P22M,Adult Program Attendance,2015,NA
+Rice Street,P21M,Adult Library Programs,2015,354
+Rice Street,P22M,Adult Program Attendance,2015,1357
 Rice Street,P23M,Other Circulation,2015,NA
 Rice Street,P24M,Total Circulation,2015,104454
 Rice Street,NA,Total Programs (Manually Input),2015,NA
@@ -1714,6 +1838,8 @@ Rice Street,C04M,Multi-format Materials,2015,NA
 Rice Street,C05M,Other Physical Materials,2015,NA
 Rice Street,C06M,Total Materials (Manually Input),2015,46080
 Rice Street,C07M,Print Serial Subscriptions,2015,NA
+Rice Street,NA,Public Internet Computers,2015,36
+Rice Street,NA,Mobile Devices,2015,12
 Riverview,P01M,Population of the Legal Service Area,2015,NA
 Riverview,P02aM,Registered Borrowers - Residents,2015,NA
 Riverview,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1724,13 +1850,13 @@ Riverview,P08M,Stations,2015,NA
 Riverview,P09M,Users of Public Internet Computers,2015,9024
 Riverview,NA,Wireless Sessions,2015,NA
 Riverview,P15M,Children's Circulation,2015,33198
-Riverview,P16M,Children's Library Programs,2015,NA
-Riverview,P17M,Children's Program Attendance,2015,NA
-Riverview,P18M,Yound Adult Library Programs,2015,NA
-Riverview,P19M,Young Adult Program Attendance,2015,NA
+Riverview,P16M,Children's Library Programs,2015,117
+Riverview,P17M,Children's Program Attendance,2015,1907
+Riverview,P18M,Yound Adult Library Programs,2015,13
+Riverview,P19M,Young Adult Program Attendance,2015,171
 Riverview,P20M,Adult Circulation,2015,31097
-Riverview,P21M,Adult Library Programs,2015,NA
-Riverview,P22M,Adult Program Attendance,2015,NA
+Riverview,P21M,Adult Library Programs,2015,12
+Riverview,P22M,Adult Program Attendance,2015,234
 Riverview,P23M,Other Circulation,2015,NA
 Riverview,P24M,Total Circulation,2015,64295
 Riverview,NA,Total Programs (Manually Input),2015,NA
@@ -1742,6 +1868,8 @@ Riverview,C04M,Multi-format Materials,2015,NA
 Riverview,C05M,Other Physical Materials,2015,NA
 Riverview,C06M,Total Materials (Manually Input),2015,31009
 Riverview,C07M,Print Serial Subscriptions,2015,NA
+Riverview,NA,Public Internet Computers,2015,15
+Riverview,NA,Mobile Devices,2015,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2015,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2015,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1752,13 +1880,13 @@ St. Anthony Park,P08M,Stations,2015,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2015,7321
 St. Anthony Park,NA,Wireless Sessions,2015,NA
 St. Anthony Park,P15M,Children's Circulation,2015,78434
-St. Anthony Park,P16M,Children's Library Programs,2015,NA
-St. Anthony Park,P17M,Children's Program Attendance,2015,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2015,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2015,NA
+St. Anthony Park,P16M,Children's Library Programs,2015,257
+St. Anthony Park,P17M,Children's Program Attendance,2015,12979
+St. Anthony Park,P18M,Yound Adult Library Programs,2015,4
+St. Anthony Park,P19M,Young Adult Program Attendance,2015,69
 St. Anthony Park,P20M,Adult Circulation,2015,63212
-St. Anthony Park,P21M,Adult Library Programs,2015,NA
-St. Anthony Park,P22M,Adult Program Attendance,2015,NA
+St. Anthony Park,P21M,Adult Library Programs,2015,260
+St. Anthony Park,P22M,Adult Program Attendance,2015,2685
 St. Anthony Park,P23M,Other Circulation,2015,NA
 St. Anthony Park,P24M,Total Circulation,2015,141646
 St. Anthony Park,C01M,Print Materials,2015,31143
@@ -1768,6 +1896,8 @@ St. Anthony Park,C04M,Multi-format Materials,2015,NA
 St. Anthony Park,C05M,Other Physical Materials,2015,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2015,37903
 St. Anthony Park,C07M,Print Serial Subscriptions,2015,NA
+St. Anthony Park,NA,Public Internet Computers,2015,16
+St. Anthony Park,NA,Mobile Devices,2015,1
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2015,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2015,NA
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1794,6 +1924,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2015,NA
 St. Paul Bookmobile,C05M,Other Physical Materials,2015,NA
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2015,20090
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2015,NA
+St. Paul Bookmobile,NA,Public Internet Computers,2015,NA
+St. Paul Bookmobile,NA,Mobile Devices,2015,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2015,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2015,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1803,13 +1935,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2015,NA
 Rondo Community Outreach,P08M,Stations,2015,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2015,55369
 Rondo Community Outreach,P15M,Children's Circulation,2015,71643
-Rondo Community Outreach,P16M,Children's Library Programs,2015,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2015,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2015,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2015,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2015,392
+Rondo Community Outreach,P17M,Children's Program Attendance,2015,7212
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2015,15
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2015,214
 Rondo Community Outreach,P20M,Adult Circulation,2015,78800
-Rondo Community Outreach,P21M,Adult Library Programs,2015,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2015,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2015,346
+Rondo Community Outreach,P22M,Adult Program Attendance,2015,4885
 Rondo Community Outreach,P23M,Other Circulation,2015,NA
 Rondo Community Outreach,P24M,Total Circulation,2015,150443
 Rondo Community Outreach,C01M,Print Materials,2015,71319
@@ -1819,6 +1951,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2015,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2015,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2015,90337
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2015,NA
+Rondo Community Outreach,NA,Public Internet Computers,2015,80
+Rondo Community Outreach,NA,Mobile Devices,2015,10
 Central,P01M,Population of the Legal Service Area,2015,NA
 Central,P02aM,Registered Borrowers - Residents,2015,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1829,13 +1963,13 @@ Central,P08M,Stations,2015,NA
 Central,P09M,Users of Public Internet Computers,2015,27108
 Central,NA,Wireless Sessions,2015,NA
 Central,P15M,Children's Circulation,2015,43156
-Central,P16M,Children's Library Programs,2015,NA
-Central,P17M,Children's Program Attendance,2015,NA
-Central,P18M,Yound Adult Library Programs,2015,NA
-Central,P19M,Young Adult Program Attendance,2015,NA
+Central,P16M,Children's Library Programs,2015,207
+Central,P17M,Children's Program Attendance,2015,6339
+Central,P18M,Young Adult Library Programs,2015,125
+Central,P19M,Young Adult Program Attendance,2015,2063
 Central,P20M,Adult Circulation,2015,88230
-Central,P21M,Adult Library Programs,2015,NA
-Central,P22M,Adult Program Attendance,2015,NA
+Central,P21M,Adult Library Programs,2015,198
+Central,P22M,Adult Program Attendance,2015,2030
 Central,P23M,Other Circulation,2015,NA
 Central,P24M,Total Circulation,2015,131386
 Central,C01M,Print Materials,2015,316622
@@ -1845,6 +1979,8 @@ Central,C04M,Multi-format Materials,2015,NA
 Central,C05M,Other Physical Materials,2015,NA
 Central,C06M,Total Materials (Manually Input),2015,333403
 Central,C07M,Print Serial Subscriptions,2015,NA
+Central,NA,Public Internet Computers,2015,65
+Central,NA,Mobile Devices,2015,12
 Sun Ray,P01M,Population of the Legal Service Area,2015,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2015,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2015,NA
@@ -1855,13 +1991,13 @@ Sun Ray,P08M,Stations,2015,NA
 Sun Ray,P09M,Users of Public Internet Computers,2015,33568
 Sun Ray,NA,Wireless Sessions,2015,NA
 Sun Ray,P15M,Children's Circulation,2015,105578
-Sun Ray,P16M,Children's Library Programs,2015,NA
-Sun Ray,P17M,Children's Program Attendance,2015,NA
-Sun Ray,P18M,Yound Adult Library Programs,2015,NA
-Sun Ray,P19M,Young Adult Program Attendance,2015,NA
+Sun Ray,P16M,Children's Library Programs,2015,240
+Sun Ray,P17M,Children's Program Attendance,2015,3973
+Sun Ray,P18M,Yound Adult Library Programs,2015,109
+Sun Ray,P19M,Young Adult Program Attendance,2015,1220
 Sun Ray,P20M,Adult Circulation,2015,122676
-Sun Ray,P21M,Adult Library Programs,2015,NA
-Sun Ray,P22M,Adult Program Attendance,2015,NA
+Sun Ray,P21M,Adult Library Programs,2015,126
+Sun Ray,P22M,Adult Program Attendance,2015,1589
 Sun Ray,P23M,Other Circulation,2015,NA
 Sun Ray,P24M,Total Circulation,2015,228254
 Sun Ray,C01M,Print Materials,2015,52608
@@ -1871,6 +2007,8 @@ Sun Ray,C04M,Multi-format Materials,2015,NA
 Sun Ray,C05M,Other Physical Materials,2015,NA
 Sun Ray,C06M,Total Materials (Manually Input),2015,67328
 Sun Ray,C07M,Print Serial Subscriptions,2015,NA
+Sun Ray,NA,Public Internet Computers,2015,37
+Sun Ray,NA,Mobile Devices,2015,30
 West 7th Street Popular,P01M,Population of the Legal Service Area,2015,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2015,3819
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2015,514
@@ -1899,6 +2037,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2015,0
 West 7th Street Popular,C05M,Other Physical Materials,2015,8
 West 7th Street Popular,C06M,Total Materials (Manually Input),2015,9907
 West 7th Street Popular,C07M,Print Serial Subscriptions,2015,12
+West 7th Street Popular,NA,Public Internet Computers,2015,17
+West 7th Street Popular,NA,Mobile Devices,2015,0
 Arlington Hills,C01M,Print Materials,2014,21854
 Arlington Hills,C02M,Audio Materials,2014,NA
 Arlington Hills,C03M,Video Materials,2014,7540
@@ -1916,16 +2056,18 @@ Arlington Hills,P08M,Stations,2014,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2014,31201
 Arlington Hills,P15M,Wireless Sessions,2014,NA
 Arlington Hills,P16M,Children's Circulation,2014,60920
-Arlington Hills,P17M,Children's Library Programs,2014,NA
-Arlington Hills,P18M,Children's Program Attendance,2014,NA
-Arlington Hills,P19M,Young Adult Library Programs,2014,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2014,NA
+Arlington Hills,P17M,Children's Library Programs,2014,293
+Arlington Hills,P18M,Children's Program Attendance,2014,9845
+Arlington Hills,P19M,Young Adult Library Programs,2014,236
+Arlington Hills,P20M,Young Adult Program Attendance,2014,7670
 Arlington Hills,P21M,Adult Circulation,2014,38872
-Arlington Hills,P22M,Adult Library Programs,2014,NA
-Arlington Hills,P23M,Adult Program Attendance,2014,NA
+Arlington Hills,P22M,Adult Library Programs,2014,211
+Arlington Hills,P23M,Adult Program Attendance,2014,3369
 Arlington Hills,P24M,Other Circulation,2014,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2014,99792
 Arlington Hills,P26M,Total Programs (Manually Input),2014,NA
+Arlington Hills,NA,Public Internet Computers,2014,22
+Arlington Hills,NA,Mobile Devices,2014,16
 Dayton's Bluff,P01M,Population of the Legal Service Area,2014,NA
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2014,NA
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -1936,13 +2078,13 @@ Dayton's Bluff,P08M,Stations,2014,NA
 Dayton's Bluff,P09M,Annual Public Internet Computer Sessions,2014,17340
 Dayton's Bluff,NA,Wireless Sessions,2014,NA
 Dayton's Bluff,P15M,Children's Circulation,2014,34430
-Dayton's Bluff,P16M,Children's Library Programs,2014,NA
-Dayton's Bluff,P17M,Children's Program Attendance,2014,NA
-Dayton's Bluff,P18M,Young Adult Library Programs,2014,NA
-Dayton's Bluff,P19M,Young Adult Program Attendance,2014,NA
+Dayton's Bluff,P16M,Children's Library Programs,2014,171
+Dayton's Bluff,P17M,Children's Program Attendance,2014,3629
+Dayton's Bluff,P18M,Young Adult Library Programs,2014,21
+Dayton's Bluff,P19M,Young Adult Program Attendance,2014,401
 Dayton's Bluff,P20M,Adult Circulation,2014,38084
-Dayton's Bluff,P21M,Adult Library Programs,2014,NA
-Dayton's Bluff,P22M,Adult Program Attendance,2014,NA
+Dayton's Bluff,P21M,Adult Library Programs,2014,122
+Dayton's Bluff,P22M,Adult Program Attendance,2014,1850
 Dayton's Bluff,P23M,Other Circulation,2014,NA
 Dayton's Bluff,P24M,Total Circulation (Manually Input),2014,72514
 Dayton's Bluff,P25M,Total Programs (Manually Input),2014,NA
@@ -1954,6 +2096,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2014,NA
 Dayton's Bluff,C05M,Other Physical Materials,2014,NA
 Dayton's Bluff,C06M,Total Materials (Manually Input),2014,33756
 Dayton's Bluff,C07M,Print Serial Subscriptions,2014,NA
+Dayton's Bluff,NA,Public Internet Computers,2014,27
+Dayton's Bluff,NA,Mobile Devices,2014,2
 Hamline Midway,P01M,Population of the Legal Service Area,2014,NA
 Hamline Midway,P02aM,Registered Borrowers - Residents,2014,NA
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -1963,13 +2107,13 @@ Hamline Midway,P06M,Reference Transactions,2014,NA
 Hamline Midway,P08M,Stations,2014,NA
 Hamline Midway,P09M,Users of Public Internet Computers,2014,10383
 Hamline Midway,P15M,Children's Circulation,2014,43620
-Hamline Midway,P16M,Children's Library Programs,2014,NA
-Hamline Midway,P17M,Children's Program Attendance,2014,NA
-Hamline Midway,P18M,Yound Adult Library Programs,2014,NA
-Hamline Midway,P19M,Young Adult Program Attendance,2014,NA
+Hamline Midway,P16M,Children's Library Programs,2014,151
+Hamline Midway,P17M,Children's Program Attendance,2014,3341
+Hamline Midway,P18M,Young Adult Library Programs,2014,18
+Hamline Midway,P19M,Young Adult Program Attendance,2014,189
 Hamline Midway,P20M,Adult Circulation,2014,45427
-Hamline Midway,P21M,Adult Library Programs,2014,NA
-Hamline Midway,P22M,Adult Program Attendance,2014,NA
+Hamline Midway,P21M,Adult Library Programs,2014,106
+Hamline Midway,P22M,Adult Program Attendance,2014,2127
 Hamline Midway,P23M,Other Circulation,2014,NA
 Hamline Midway,P24M,Total Circulation,2014,89047
 Hamline Midway,NA,Total Programs (Manually Input),2014,NA
@@ -1982,6 +2126,8 @@ Hamline Midway,C05M,Other Physical Materials,2014,NA
 Hamline Midway,C06M,Total Materials (Manually Input),2014,27693
 Hamline Midway,C07M,Print Serial Subscriptions,2014,NA
 Hamline Midway,NA,Wireless Sessions,2014,NA
+Hamline Midway,NA,Public Internet Computers,2014,18
+Hamline Midway,NA,Mobile Devices,2014,6
 Hayden Heights,P01M,Population of the Legal Service Area,2014,NA
 Hayden Heights,P02aM,Registered Borrowers - Residents,2014,NA
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -1992,13 +2138,13 @@ Hayden Heights,P08M,Stations,2014,NA
 Hayden Heights,P09M,Users of Public Internet Computers,2014,24605
 Hayden Heights,NA,Wireless Sessions,2014,NA
 Hayden Heights,P15M,Children's Circulation,2014,68233
-Hayden Heights,P16M,Children's Library Programs,2014,NA
-Hayden Heights,P17M,Children's Program Attendance,2014,NA
-Hayden Heights,P18M,Yound Adult Library Programs,2014,NA
-Hayden Heights,P19M,Young Adult Program Attendance,2014,NA
+Hayden Heights,P16M,Children's Library Programs,2014,182
+Hayden Heights,P17M,Children's Program Attendance,2014,3298
+Hayden Heights,P18M,Yound Adult Library Programs,2014,182
+Hayden Heights,P19M,Young Adult Program Attendance,2014,1053
 Hayden Heights,P20M,Adult Circulation,2014,72995
-Hayden Heights,P21M,Adult Library Programs,2014,NA
-Hayden Heights,P22M,Adult Program Attendance,2014,NA
+Hayden Heights,P21M,Adult Library Programs,2014,251
+Hayden Heights,P22M,Adult Program Attendance,2014,1871
 Hayden Heights,P23M,Other Circulation,2014,NA
 Hayden Heights,P24M,Total Circulation,2014,141228
 Hayden Heights,NA,Total Programs (Manually Input),2014,NA
@@ -2010,6 +2156,8 @@ Hayden Heights,C04M,Multi-format Materials,2014,NA
 Hayden Heights,C05M,Other Physical Materials,2014,NA
 Hayden Heights,C06M,Total Materials (Manually Input),2014,51861
 Hayden Heights,C07M,Print Serial Subscriptions,2014,NA
+Hayden Heights,NA,Public Internet Computers,2014,31
+Hayden Heights,NA,Mobile Devices,2014,23
 Highland,P01M,Population of the Legal Service Area,2014,NA
 Highland,P02aM,Registered Borrowers - Residents,2014,NA
 Highland,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2020,13 +2168,13 @@ Highland,P08M,Stations,2014,NA
 Highland,P09M,Users of Public Internet Computers,2014,2674
 Highland,NA,Wireless Sessions,2014,NA
 Highland,P15M,Children's Circulation,2014,30668
-Highland,P16M,Children's Library Programs,2014,NA
-Highland,P17M,Children's Program Attendance,2014,NA
-Highland,P18M,Yound Adult Library Programs,2014,NA
-Highland,P19M,Young Adult Program Attendance,2014,NA
+Highland,P16M,Children's Library Programs,2014,63
+Highland,P17M,Children's Program Attendance,2014,1709
+Highland,P18M,Young Adult Library Programs,2014,4
+Highland,P19M,Young Adult Program Attendance,2014,20
 Highland,P20M,Adult Circulation,2014,26938
-Highland,P21M,Adult Library Programs,2014,NA
-Highland,P22M,Adult Program Attendance,2014,NA
+Highland,P21M,Adult Library Programs,2014,14
+Highland,P22M,Adult Program Attendance,2014,130
 Highland,P23M,Other Circulation,2014,NA
 Highland,P24M,Total Circulation,2014,57606
 Highland,NA,Total Programs (Manually Input),2014,NA
@@ -2038,6 +2186,8 @@ Highland,C04M,Multi-format Materials,2014,NA
 Highland,C05M,Other Physical Materials,2014,NA
 Highland,C06M,Total Materials (Manually Input),2014,67177
 Highland,C07M,Print Serial Subscriptions,2014,NA
+Highland,NA,Public Internet Computers,2014,39
+Highland,NA,Mobile Devices,2014,10
 Merriam Park,P01M,Population of the Legal Service Area,2014,NA
 Merriam Park,P02aM,Registered Borrowers - Residents,2014,NA
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2048,13 +2198,13 @@ Merriam Park,P08M,Stations,2014,NA
 Merriam Park,P09M,Users of Public Internet Computers,2014,25029
 Merriam Park,P15M,Children's Circulation,2014,196211
 Merriam Park,NA,Wireless Sessions,2014,NA
-Merriam Park,P16M,Children's Library Programs,2014,NA
-Merriam Park,P17M,Children's Program Attendance,2014,NA
-Merriam Park,P18M,Yound Adult Library Programs,2014,NA
-Merriam Park,P19M,Young Adult Program Attendance,2014,NA
+Merriam Park,P16M,Children's Library Programs,2014,115
+Merriam Park,P17M,Children's Program Attendance,2014,4301
+Merriam Park,P18M,Yound Adult Library Programs,2014,15
+Merriam Park,P19M,Young Adult Program Attendance,2014,127
 Merriam Park,P20M,Adult Circulation,2014,295184
-Merriam Park,P21M,Adult Library Programs,2014,NA
-Merriam Park,P22M,Adult Program Attendance,2014,NA
+Merriam Park,P21M,Adult Library Programs,2014,89
+Merriam Park,P22M,Adult Program Attendance,2014,1040
 Merriam Park,P23M,Other Circulation,2014,NA
 Merriam Park,P24M,Total Circulation,2014,491495
 Merriam Park,NA,Total Programs (Manually Input),2014,NA
@@ -2066,6 +2216,8 @@ Merriam Park,C04M,Multi-format Materials,2014,NA
 Merriam Park,C05M,Other Physical Materials,2014,NA
 Merriam Park,C06M,Total Materials (Manually Input),2014,81487
 Merriam Park,C07M,Print Serial Subscriptions,2014,NA
+Merriam Park,NA,Public Internet Computers,2014,20
+Merriam Park,NA,Mobile Devices,2014,0
 Rice Street,P01M,Population of the Legal Service Area,2014,NA
 Rice Street,P02aM,Registered Borrowers - Residents,2014,NA
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2076,13 +2228,13 @@ Rice Street,P08M,Stations,2014,NA
 Rice Street,P09M,Users of Public Internet Computers,2014,28087
 Rice Street,NA,Wireless Sessions,2014,NA
 Rice Street,P15M,Children's Circulation,2014,47879
-Rice Street,P16M,Children's Library Programs,2014,NA
-Rice Street,P17M,Children's Program Attendance,2014,NA
-Rice Street,P18M,Yound Adult Library Programs,2014,NA
-Rice Street,P19M,Young Adult Program Attendance,2014,NA
+Rice Street,P16M,Children's Library Programs,2014,351
+Rice Street,P17M,Children's Program Attendance,2014,3941
+Rice Street,P18M,Yound Adult Library Programs,2014,105
+Rice Street,P19M,Young Adult Program Attendance,2014,1622
 Rice Street,P20M,Adult Circulation,2014,52982
-Rice Street,P21M,Adult Library Programs,2014,NA
-Rice Street,P22M,Adult Program Attendance,2014,NA
+Rice Street,P21M,Adult Library Programs,2014,465
+Rice Street,P22M,Adult Program Attendance,2014,2261
 Rice Street,P23M,Other Circulation,2014,NA
 Rice Street,P24M,Total Circulation,2014,100861
 Rice Street,NA,Total Programs (Manually Input),2014,NA
@@ -2094,6 +2246,8 @@ Rice Street,C04M,Multi-format Materials,2014,NA
 Rice Street,C05M,Other Physical Materials,2014,NA
 Rice Street,C06M,Total Materials (Manually Input),2014,45318
 Rice Street,C07M,Print Serial Subscriptions,2014,NA
+Rice Street,NA,Public Internet Computers,2014,37
+Rice Street,NA,Mobile Devices,2014,8
 Riverview,P01M,Population of the Legal Service Area,2014,NA
 Riverview,P02aM,Registered Borrowers - Residents,2014,NA
 Riverview,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2104,13 +2258,13 @@ Riverview,P08M,Stations,2014,NA
 Riverview,P09M,Users of Public Internet Computers,2014,9928
 Riverview,NA,Wireless Sessions,2014,NA
 Riverview,P15M,Children's Circulation,2014,29803
-Riverview,P16M,Children's Library Programs,2014,NA
-Riverview,P17M,Children's Program Attendance,2014,NA
-Riverview,P18M,Yound Adult Library Programs,2014,NA
-Riverview,P19M,Young Adult Program Attendance,2014,NA
+Riverview,P16M,Children's Library Programs,2014,173
+Riverview,P17M,Children's Program Attendance,2014,2353
+Riverview,P18M,Yound Adult Library Programs,2014,13
+Riverview,P19M,Young Adult Program Attendance,2014,212
 Riverview,P20M,Adult Circulation,2014,29619
-Riverview,P21M,Adult Library Programs,2014,NA
-Riverview,P22M,Adult Program Attendance,2014,NA
+Riverview,P21M,Adult Library Programs,2014,57
+Riverview,P22M,Adult Program Attendance,2014,962
 Riverview,P23M,Other Circulation,2014,NA
 Riverview,P24M,Total Circulation,2014,59422
 Riverview,NA,Total Programs (Manually Input),2014,NA
@@ -2122,6 +2276,8 @@ Riverview,C04M,Multi-format Materials,2014,NA
 Riverview,C05M,Other Physical Materials,2014,NA
 Riverview,C06M,Total Materials (Manually Input),2014,28855
 Riverview,C07M,Print Serial Subscriptions,2014,NA
+Riverview,NA,Public Internet Computers,2014,15
+Riverview,NA,Mobile Devices,2014,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2014,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2014,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2132,13 +2288,13 @@ St. Anthony Park,P08M,Stations,2014,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2014,7625
 St. Anthony Park,NA,Wireless Sessions,2014,NA
 St. Anthony Park,P15M,Children's Circulation,2014,74842
-St. Anthony Park,P16M,Children's Library Programs,2014,NA
-St. Anthony Park,P17M,Children's Program Attendance,2014,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2014,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2014,NA
+St. Anthony Park,P16M,Children's Library Programs,2014,179
+St. Anthony Park,P17M,Children's Program Attendance,2014,7516
+St. Anthony Park,P18M,Yound Adult Library Programs,2014,1
+St. Anthony Park,P19M,Young Adult Program Attendance,2014,0
 St. Anthony Park,P20M,Adult Circulation,2014,62385
-St. Anthony Park,P21M,Adult Library Programs,2014,NA
-St. Anthony Park,P22M,Adult Program Attendance,2014,NA
+St. Anthony Park,P21M,Adult Library Programs,2014,100
+St. Anthony Park,P22M,Adult Program Attendance,2014,1208
 St. Anthony Park,P23M,Other Circulation,2014,NA
 St. Anthony Park,P24M,Total Circulation,2014,137227
 St. Anthony Park,C01M,Print Materials,2014,31307
@@ -2148,6 +2304,8 @@ St. Anthony Park,C04M,Multi-format Materials,2014,NA
 St. Anthony Park,C05M,Other Physical Materials,2014,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2014,38451
 St. Anthony Park,C07M,Print Serial Subscriptions,2014,NA
+St. Anthony Park,NA,Public Internet Computers,2014,16
+St. Anthony Park,NA,Mobile Devices,2014,1
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2014,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2014,NA
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2174,6 +2332,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2014,NA
 St. Paul Bookmobile,C05M,Other Physical Materials,2014,NA
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2014,20545
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2014,NA
+St. Paul Bookmobile,NA,Public Internet Computers,2014,NA
+St. Paul Bookmobile,NA,Mobile Devices,2014,NA
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2014,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2014,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2183,13 +2343,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2014,NA
 Rondo Community Outreach,P08M,Stations,2014,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2014,67072
 Rondo Community Outreach,P15M,Children's Circulation,2014,86889
-Rondo Community Outreach,P16M,Children's Library Programs,2014,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2014,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2014,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2014,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2014,372
+Rondo Community Outreach,P17M,Children's Program Attendance,2014,6950
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2014,21
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2014,581
 Rondo Community Outreach,P20M,Adult Circulation,2014,86056
-Rondo Community Outreach,P21M,Adult Library Programs,2014,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2014,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2014,431
+Rondo Community Outreach,P22M,Adult Program Attendance,2014,6218
 Rondo Community Outreach,P23M,Other Circulation,2014,NA
 Rondo Community Outreach,P24M,Total Circulation,2014,172945
 Rondo Community Outreach,C01M,Print Materials,2014,68911
@@ -2199,6 +2359,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2014,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2014,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2014,88114
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2014,NA
+Rondo Community Outreach,NA,Public Internet Computers,2014,68
+Rondo Community Outreach,NA,Mobile Devices,2014,3
 Central,P01M,Population of the Legal Service Area,2014,NA
 Central,P02aM,Registered Borrowers - Residents,2014,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2209,13 +2371,13 @@ Central,P08M,Stations,2014,NA
 Central,P09M,Users of Public Internet Computers,2014,38806
 Central,NA,Wireless Sessions,2014,NA
 Central,P15M,Children's Circulation,2014,69370
-Central,P16M,Children's Library Programs,2014,NA
-Central,P17M,Children's Program Attendance,2014,NA
-Central,P18M,Yound Adult Library Programs,2014,NA
-Central,P19M,Young Adult Program Attendance,2014,NA
+Central,P16M,Children's Library Programs,2014,270
+Central,P17M,Children's Program Attendance,2014,8263
+Central,P18M,Young Adult Library Programs,2014,216
+Central,P19M,Young Adult Program Attendance,2014,2910
 Central,P20M,Adult Circulation,2014,127654
-Central,P21M,Adult Library Programs,2014,NA
-Central,P22M,Adult Program Attendance,2014,NA
+Central,P21M,Adult Library Programs,2014,125
+Central,P22M,Adult Program Attendance,2014,2329
 Central,P23M,Other Circulation,2014,NA
 Central,P24M,Total Circulation,2014,197024
 Central,C01M,Print Materials,2014,329831
@@ -2225,6 +2387,8 @@ Central,C04M,Multi-format Materials,2014,NA
 Central,C05M,Other Physical Materials,2014,NA
 Central,C06M,Total Materials (Manually Input),2014,345999
 Central,C07M,Print Serial Subscriptions,2014,NA
+Central,NA,Public Internet Computers,2014,67
+Central,NA,Mobile Devices,2014,12
 Sun Ray,P01M,Population of the Legal Service Area,2014,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2014,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2014,NA
@@ -2235,13 +2399,13 @@ Sun Ray,P08M,Stations,2014,NA
 Sun Ray,P09M,Users of Public Internet Computers,2014,6916
 Sun Ray,NA,Wireless Sessions,2014,NA
 Sun Ray,P15M,Children's Circulation,2014,13790
-Sun Ray,P16M,Children's Library Programs,2014,NA
-Sun Ray,P17M,Children's Program Attendance,2014,NA
-Sun Ray,P18M,Yound Adult Library Programs,2014,NA
-Sun Ray,P19M,Young Adult Program Attendance,2014,NA
+Sun Ray,P16M,Children's Library Programs,2014,43
+Sun Ray,P17M,Children's Program Attendance,2014,420
+Sun Ray,P18M,Yound Adult Library Programs,2014,3
+Sun Ray,P19M,Young Adult Program Attendance,2014,20
 Sun Ray,P20M,Adult Circulation,2014,16203
-Sun Ray,P21M,Adult Library Programs,2014,NA
-Sun Ray,P22M,Adult Program Attendance,2014,NA
+Sun Ray,P21M,Adult Library Programs,2014,69
+Sun Ray,P22M,Adult Program Attendance,2014,367
 Sun Ray,P23M,Other Circulation,2014,NA
 Sun Ray,P24M,Total Circulation,2014,29993
 Sun Ray,C01M,Print Materials,2014,49239
@@ -2251,6 +2415,8 @@ Sun Ray,C04M,Multi-format Materials,2014,NA
 Sun Ray,C05M,Other Physical Materials,2014,NA
 Sun Ray,C06M,Total Materials (Manually Input),2014,62036
 Sun Ray,C07M,Print Serial Subscriptions,2014,NA
+Sun Ray,NA,Public Internet Computers,2014,35
+Sun Ray,NA,Mobile Devices,2014,14
 West 7th Street Popular,P01M,Population of the Legal Service Area,2014,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2014,3510
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2014,463
@@ -2279,6 +2445,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2014,0
 West 7th Street Popular,C05M,Other Physical Materials,2014,8
 West 7th Street Popular,C06M,Total Materials (Manually Input),2014,10954
 West 7th Street Popular,C07M,Print Serial Subscriptions,2014,11
+West 7th Street Popular,NA,Public Internet Computers,2014,17
+West 7th Street Popular,NA,Mobile Devices,2014,0
 Arlington Hills,C01M,Print Materials,2017,22342
 Arlington Hills,C02M,Audio Materials,2017,NA
 Arlington Hills,C03M,Video Materials,2017,6779
@@ -2296,16 +2464,18 @@ Arlington Hills,P08M,Stations,2017,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2017,33491
 Arlington Hills,P15M,Wireless Sessions,2017,NA
 Arlington Hills,P16M,Children's Circulation,2017,53210
-Arlington Hills,P17M,Children's Library Programs,2017,NA
-Arlington Hills,P18M,Children's Program Attendance,2017,NA
-Arlington Hills,P19M,Young Adult Library Programs,2017,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2017,NA
+Arlington Hills,P17M,Children's Library Programs,2017,235
+Arlington Hills,P18M,Children's Program Attendance,2017,7078
+Arlington Hills,P19M,Young Adult Library Programs,2017,306
+Arlington Hills,P20M,Young Adult Program Attendance,2017,9770
 Arlington Hills,P21M,Adult Circulation,2017,40726
-Arlington Hills,P22M,Adult Library Programs,2017,NA
-Arlington Hills,P23M,Adult Program Attendance,2017,NA
+Arlington Hills,P22M,Adult Library Programs,2017,367
+Arlington Hills,P23M,Adult Program Attendance,2017,3911
 Arlington Hills,P24M,Other Circulation,2017,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2017,93936
 Arlington Hills,P26M,Total Programs (Manually Input),2017,NA
+Arlington Hills,NA,Public Internet Computers,2017,22
+Arlington Hills,NA,Mobile Devices,2017,43
 Dayton's Bluff,P01M,Population of the Legal Service Area,2017,NA
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2017,NA
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2316,13 +2486,13 @@ Dayton's Bluff,P08M,Stations,2017,NA
 Dayton's Bluff,P09M,Annual Public Internet Computer Sessions,2017,17440
 Dayton's Bluff,NA,Wireless Sessions,2017,10524
 Dayton's Bluff,P15M,Children's Circulation,2017,24005
-Dayton's Bluff,P16M,Children's Library Programs,2017,NA
-Dayton's Bluff,P17M,Children's Program Attendance,2017,NA
-Dayton's Bluff,P18M,Young Adult Library Programs,2017,NA
-Dayton's Bluff,P19M,Young Adult Program Attendance,2017,NA
+Dayton's Bluff,P16M,Children's Library Programs,2017,148
+Dayton's Bluff,P17M,Children's Program Attendance,2017,2133
+Dayton's Bluff,P18M,Young Adult Library Programs,2017,21
+Dayton's Bluff,P19M,Young Adult Program Attendance,2017,389
 Dayton's Bluff,P20M,Adult Circulation,2017,27853
-Dayton's Bluff,P21M,Adult Library Programs,2017,NA
-Dayton's Bluff,P22M,Adult Program Attendance,2017,NA
+Dayton's Bluff,P21M,Adult Library Programs,2017,119
+Dayton's Bluff,P22M,Adult Program Attendance,2017,4610
 Dayton's Bluff,P23M,Other Circulation,2017,NA
 Dayton's Bluff,P24M,Total Circulation (Manually Input),2017,51858
 Dayton's Bluff,P25M,Total Programs (Manually Input),2017,NA
@@ -2334,6 +2504,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2017,NA
 Dayton's Bluff,C05M,Other Physical Materials,2017,NA
 Dayton's Bluff,C06M,Total Materials (Manually Input),2017,33954
 Dayton's Bluff,C07M,Print Serial Subscriptions,2017,NA
+Dayton's Bluff,NA,Public Internet Computers,2017,29
+Dayton's Bluff,NA,Mobile Devices,2017,2
 Hamline Midway,P01M,Population of the Legal Service Area,2017,NA
 Hamline Midway,P02aM,Registered Borrowers - Residents,2017,NA
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2343,13 +2515,13 @@ Hamline Midway,P06M,Reference Transactions,2017,NA
 Hamline Midway,P08M,Stations,2017,NA
 Hamline Midway,P09M,Users of Public Internet Computers,2017,4802
 Hamline Midway,P15M,Children's Circulation,2017,51533
-Hamline Midway,P16M,Children's Library Programs,2017,NA
-Hamline Midway,P17M,Children's Program Attendance,2017,NA
-Hamline Midway,P18M,Yound Adult Library Programs,2017,NA
-Hamline Midway,P19M,Young Adult Program Attendance,2017,NA
+Hamline Midway,P16M,Children's Library Programs,2017,158
+Hamline Midway,P17M,Children's Program Attendance,2017,3996
+Hamline Midway,P18M,Young Adult Library Programs,2017,18
+Hamline Midway,P19M,Young Adult Program Attendance,2017,223
 Hamline Midway,P20M,Adult Circulation,2017,52107
-Hamline Midway,P21M,Adult Library Programs,2017,NA
-Hamline Midway,P22M,Adult Program Attendance,2017,NA
+Hamline Midway,P21M,Adult Library Programs,2017,129
+Hamline Midway,P22M,Adult Program Attendance,2017,1887
 Hamline Midway,P23M,Other Circulation,2017,NA
 Hamline Midway,P24M,Total Circulation,2017,103640
 Hamline Midway,NA,Total Programs (Manually Input),2017,NA
@@ -2362,6 +2534,8 @@ Hamline Midway,C05M,Other Physical Materials,2017,NA
 Hamline Midway,C06M,Total Materials (Manually Input),2017,29462
 Hamline Midway,C07M,Print Serial Subscriptions,2017,NA
 Hamline Midway,NA,Wireless Sessions,2017,4802
+Hamline Midway,NA,Public Internet Computers,2017,16
+Hamline Midway,NA,Mobile Devices,2017,6
 Hayden Heights,P01M,Population of the Legal Service Area,2017,NA
 Hayden Heights,P02aM,Registered Borrowers - Residents,2017,NA
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2372,13 +2546,13 @@ Hayden Heights,P08M,Stations,2017,NA
 Hayden Heights,P09M,Users of Public Internet Computers,2017,18779
 Hayden Heights,NA,Wireless Sessions,2017,8557
 Hayden Heights,P15M,Children's Circulation,2017,34022
-Hayden Heights,P16M,Children's Library Programs,2017,NA
-Hayden Heights,P17M,Children's Program Attendance,2017,NA
-Hayden Heights,P18M,Yound Adult Library Programs,2017,NA
-Hayden Heights,P19M,Young Adult Program Attendance,2017,NA
+Hayden Heights,P16M,Children's Library Programs,2017,143
+Hayden Heights,P17M,Children's Program Attendance,2017,3074
+Hayden Heights,P18M,Yound Adult Library Programs,2017,4
+Hayden Heights,P19M,Young Adult Program Attendance,2017,18
 Hayden Heights,P20M,Adult Circulation,2017,33354
-Hayden Heights,P21M,Adult Library Programs,2017,NA
-Hayden Heights,P22M,Adult Program Attendance,2017,NA
+Hayden Heights,P21M,Adult Library Programs,2017,55
+Hayden Heights,P22M,Adult Program Attendance,2017,4063
 Hayden Heights,P23M,Other Circulation,2017,NA
 Hayden Heights,P24M,Total Circulation,2017,67376
 Hayden Heights,NA,Total Programs (Manually Input),2017,NA
@@ -2390,6 +2564,8 @@ Hayden Heights,C04M,Multi-format Materials,2017,NA
 Hayden Heights,C05M,Other Physical Materials,2017,NA
 Hayden Heights,C06M,Total Materials (Manually Input),2017,40431
 Hayden Heights,C07M,Print Serial Subscriptions,2017,NA
+Hayden Heights,NA,Public Internet Computers,2017,23
+Hayden Heights,NA,Mobile Devices,2017,7
 Highland,P01M,Population of the Legal Service Area,2017,NA
 Highland,P02aM,Registered Borrowers - Residents,2017,NA
 Highland,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2400,13 +2576,13 @@ Highland,P08M,Stations,2017,NA
 Highland,P09M,Users of Public Internet Computers,2017,31219
 Highland,NA,Wireless Sessions,2017,22711
 Highland,P15M,Children's Circulation,2017,168581
-Highland,P16M,Children's Library Programs,2017,NA
-Highland,P17M,Children's Program Attendance,2017,NA
-Highland,P18M,Yound Adult Library Programs,2017,NA
-Highland,P19M,Young Adult Program Attendance,2017,NA
+Highland,P16M,Children's Library Programs,2017,279
+Highland,P17M,Children's Program Attendance,2017,8893
+Highland,P18M,Young Adult Library Programs,2017,105
+Highland,P19M,Young Adult Program Attendance,2017,919
 Highland,P20M,Adult Circulation,2017,175502
-Highland,P21M,Adult Library Programs,2017,NA
-Highland,P22M,Adult Program Attendance,2017,NA
+Highland,P21M,Adult Library Programs,2017,80
+Highland,P22M,Adult Program Attendance,2017,745
 Highland,P23M,Other Circulation,2017,NA
 Highland,P24M,Total Circulation,2017,344083
 Highland,NA,Total Programs (Manually Input),2017,NA
@@ -2418,6 +2594,8 @@ Highland,C04M,Multi-format Materials,2017,NA
 Highland,C05M,Other Physical Materials,2017,NA
 Highland,C06M,Total Materials (Manually Input),2017,70806
 Highland,C07M,Print Serial Subscriptions,2017,NA
+Highland,NA,Public Internet Computers,2017,38
+Highland,NA,Mobile Devices,2017,29
 Merriam Park,P01M,Population of the Legal Service Area,2017,NA
 Merriam Park,P02aM,Registered Borrowers - Residents,2017,NA
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2428,13 +2606,13 @@ Merriam Park,P08M,Stations,2017,NA
 Merriam Park,P09M,Users of Public Internet Computers,2017,15649
 Merriam Park,P15M,Children's Circulation,2017,108020
 Merriam Park,NA,Wireless Sessions,2017,15649
-Merriam Park,P16M,Children's Library Programs,2017,NA
-Merriam Park,P17M,Children's Program Attendance,2017,NA
-Merriam Park,P18M,Yound Adult Library Programs,2017,NA
-Merriam Park,P19M,Young Adult Program Attendance,2017,NA
+Merriam Park,P16M,Children's Library Programs,2017,150
+Merriam Park,P17M,Children's Program Attendance,2017,4023
+Merriam Park,P18M,Yound Adult Library Programs,2017,7
+Merriam Park,P19M,Young Adult Program Attendance,2017,77
 Merriam Park,P20M,Adult Circulation,2017,180037
-Merriam Park,P21M,Adult Library Programs,2017,NA
-Merriam Park,P22M,Adult Program Attendance,2017,NA
+Merriam Park,P21M,Adult Library Programs,2017,141
+Merriam Park,P22M,Adult Program Attendance,2017,1434
 Merriam Park,P23M,Other Circulation,2017,NA
 Merriam Park,P24M,Total Circulation,2017,288057
 Merriam Park,NA,Total Programs (Manually Input),2017,NA
@@ -2446,6 +2624,8 @@ Merriam Park,C04M,Multi-format Materials,2017,NA
 Merriam Park,C05M,Other Physical Materials,2017,NA
 Merriam Park,C06M,Total Materials (Manually Input),2017,71747
 Merriam Park,C07M,Print Serial Subscriptions,2017,NA
+Merriam Park,NA,Public Internet Computers,2017,19
+Merriam Park,NA,Mobile Devices,2017,0
 Rice Street,P01M,Population of the Legal Service Area,2017,NA
 Rice Street,P02aM,Registered Borrowers - Residents,2017,NA
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2456,13 +2636,13 @@ Rice Street,P08M,Stations,2017,NA
 Rice Street,P09M,Users of Public Internet Computers,2017,30492
 Rice Street,NA,Wireless Sessions,2017,19039
 Rice Street,P15M,Children's Circulation,2017,34934
-Rice Street,P16M,Children's Library Programs,2017,NA
-Rice Street,P17M,Children's Program Attendance,2017,NA
-Rice Street,P18M,Yound Adult Library Programs,2017,NA
-Rice Street,P19M,Young Adult Program Attendance,2017,NA
+Rice Street,P16M,Children's Library Programs,2017,239
+Rice Street,P17M,Children's Program Attendance,2017,3115
+Rice Street,P18M,Yound Adult Library Programs,2017,61
+Rice Street,P19M,Young Adult Program Attendance,2017,466
 Rice Street,P20M,Adult Circulation,2017,37716
-Rice Street,P21M,Adult Library Programs,2017,NA
-Rice Street,P22M,Adult Program Attendance,2017,NA
+Rice Street,P21M,Adult Library Programs,2017,112
+Rice Street,P22M,Adult Program Attendance,2017,725
 Rice Street,P23M,Other Circulation,2017,NA
 Rice Street,P24M,Total Circulation,2017,72650
 Rice Street,NA,Total Programs (Manually Input),2017,NA
@@ -2474,6 +2654,8 @@ Rice Street,C04M,Multi-format Materials,2017,NA
 Rice Street,C05M,Other Physical Materials,2017,NA
 Rice Street,C06M,Total Materials (Manually Input),2017,43945
 Rice Street,C07M,Print Serial Subscriptions,2017,NA
+Rice Street,NA,Public Internet Computers,2017,35
+Rice Street,NA,Mobile Devices,2017,8
 Riverview,P01M,Population of the Legal Service Area,2017,NA
 Riverview,P02aM,Registered Borrowers - Residents,2017,NA
 Riverview,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2484,13 +2666,13 @@ Riverview,P08M,Stations,2017,NA
 Riverview,P09M,Users of Public Internet Computers,2017,11889
 Riverview,NA,Wireless Sessions,2017,10073
 Riverview,P15M,Children's Circulation,2017,29876
-Riverview,P16M,Children's Library Programs,2017,NA
-Riverview,P17M,Children's Program Attendance,2017,NA
-Riverview,P18M,Yound Adult Library Programs,2017,NA
-Riverview,P19M,Young Adult Program Attendance,2017,NA
+Riverview,P16M,Children's Library Programs,2017,128
+Riverview,P17M,Children's Program Attendance,2017,1470
+Riverview,P18M,Yound Adult Library Programs,2017,29
+Riverview,P19M,Young Adult Program Attendance,2017,365
 Riverview,P20M,Adult Circulation,2017,28464
-Riverview,P21M,Adult Library Programs,2017,NA
-Riverview,P22M,Adult Program Attendance,2017,NA
+Riverview,P21M,Adult Library Programs,2017,26
+Riverview,P22M,Adult Program Attendance,2017,752
 Riverview,P23M,Other Circulation,2017,NA
 Riverview,P24M,Total Circulation,2017,58340
 Riverview,NA,Total Programs (Manually Input),2017,NA
@@ -2502,6 +2684,8 @@ Riverview,C04M,Multi-format Materials,2017,NA
 Riverview,C05M,Other Physical Materials,2017,NA
 Riverview,C06M,Total Materials (Manually Input),2017,28654
 Riverview,C07M,Print Serial Subscriptions,2017,NA
+Riverview,NA,Public Internet Computers,2017,15
+Riverview,NA,Mobile Devices,2017,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2017,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2017,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2512,13 +2696,13 @@ St. Anthony Park,P08M,Stations,2017,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2017,6882
 St. Anthony Park,NA,Wireless Sessions,2017,7279
 St. Anthony Park,P15M,Children's Circulation,2017,71073
-St. Anthony Park,P16M,Children's Library Programs,2017,NA
-St. Anthony Park,P17M,Children's Program Attendance,2017,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2017,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2017,NA
+St. Anthony Park,P16M,Children's Library Programs,2017,287
+St. Anthony Park,P17M,Children's Program Attendance,2017,13572
+St. Anthony Park,P18M,Yound Adult Library Programs,2017,30
+St. Anthony Park,P19M,Young Adult Program Attendance,2017,434
 St. Anthony Park,P20M,Adult Circulation,2017,55874
-St. Anthony Park,P21M,Adult Library Programs,2017,NA
-St. Anthony Park,P22M,Adult Program Attendance,2017,NA
+St. Anthony Park,P21M,Adult Library Programs,2017,189
+St. Anthony Park,P22M,Adult Program Attendance,2017,2200
 St. Anthony Park,P23M,Other Circulation,2017,NA
 St. Anthony Park,P24M,Total Circulation,2017,126947
 St. Anthony Park,C01M,Print Materials,2017,30464
@@ -2528,6 +2712,8 @@ St. Anthony Park,C04M,Multi-format Materials,2017,NA
 St. Anthony Park,C05M,Other Physical Materials,2017,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2017,37624
 St. Anthony Park,C07M,Print Serial Subscriptions,2017,NA
+St. Anthony Park,NA,Public Internet Computers,2017,16
+St. Anthony Park,NA,Mobile Devices,2017,1
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2017,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2017,NA
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2537,13 +2723,13 @@ St. Paul Bookmobile,P06M,Reference Transactions,2017,NA
 St. Paul Bookmobile,P08M,Stations,2017,NA
 St. Paul Bookmobile,P09M,Users of Public Internet Computers,2017,NA
 St. Paul Bookmobile,P15M,Children's Circulation,2017,63333
-St. Paul Bookmobile,P16M,Children's Library Programs,2017,NA
-St. Paul Bookmobile,P17M,Children's Program Attendance,2017,NA
-St. Paul Bookmobile,P18M,Young Adult Library Programs,2017,NA
-St. Paul Bookmobile,P19M,Young Adult Program Attendance,2017,NA
+St. Paul Bookmobile,P16M,Children's Library Programs,2017,1345
+St. Paul Bookmobile,P17M,Children's Program Attendance,2017,30537
+St. Paul Bookmobile,P18M,Young Adult Library Programs,2017,0
+St. Paul Bookmobile,P19M,Young Adult Program Attendance,2017,0
 St. Paul Bookmobile,P20M,Adult Circulation,2017,34127
-St. Paul Bookmobile,P21M,Adult Library Programs,2017,NA
-St. Paul Bookmobile,P22M,Adult Program Attendance,2017,NA
+St. Paul Bookmobile,P21M,Adult Library Programs,2017,0
+St. Paul Bookmobile,P22M,Adult Program Attendance,2017,0
 St. Paul Bookmobile,P23M,Other Circulation,2017,NA
 St. Paul Bookmobile,P24M,Total Circulation,2017,97460
 St. Paul Bookmobile,NA,Total Programs,2017,NA
@@ -2554,6 +2740,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2017,NA
 St. Paul Bookmobile,C05M,Other Physical Materials,2017,NA
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2017,17589
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2017,NA
+St. Paul Bookmobile,NA,Public Internet Computers,2017,0
+St. Paul Bookmobile,NA,Mobile Devices,2017,2
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2017,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2017,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2563,13 +2751,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2017,NA
 Rondo Community Outreach,P08M,Stations,2017,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2017,36171
 Rondo Community Outreach,P15M,Children's Circulation,2017,31248
-Rondo Community Outreach,P16M,Children's Library Programs,2017,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2017,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2017,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2017,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2017,119
+Rondo Community Outreach,P17M,Children's Program Attendance,2017,1647
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2017,26
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2017,368
 Rondo Community Outreach,P20M,Adult Circulation,2017,39654
-Rondo Community Outreach,P21M,Adult Library Programs,2017,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2017,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2017,261
+Rondo Community Outreach,P22M,Adult Program Attendance,2017,3736
 Rondo Community Outreach,P23M,Other Circulation,2017,NA
 Rondo Community Outreach,P24M,Total Circulation,2017,70902
 Rondo Community Outreach,C01M,Print Materials,2017,66206
@@ -2579,6 +2767,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2017,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2017,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2017,87024
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2017,NA
+Rondo Community Outreach,NA,Public Internet Computers,2017,82
+Rondo Community Outreach,NA,Mobile Devices,2017,8
 Central,P01M,Population of the Legal Service Area,2017,NA
 Central,P02aM,Registered Borrowers - Residents,2017,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2589,13 +2779,13 @@ Central,P08M,Stations,2017,NA
 Central,P09M,Users of Public Internet Computers,2017,37998
 Central,NA,Wireless Sessions,2017,28400
 Central,P15M,Children's Circulation,2017,48992
-Central,P16M,Children's Library Programs,2017,NA
-Central,P17M,Children's Program Attendance,2017,NA
-Central,P18M,Yound Adult Library Programs,2017,NA
-Central,P19M,Young Adult Program Attendance,2017,NA
+Central,P16M,Children's Library Programs,2017,271
+Central,P17M,Children's Program Attendance,2017,9553
+Central,P18M,Young Adult Library Programs,2017,90
+Central,P19M,Young Adult Program Attendance,2017,1063
 Central,P20M,Adult Circulation,2017,81650
-Central,P21M,Adult Library Programs,2017,NA
-Central,P22M,Adult Program Attendance,2017,NA
+Central,P21M,Adult Library Programs,2017,511
+Central,P22M,Adult Program Attendance,2017,6566
 Central,P23M,Other Circulation,2017,NA
 Central,P24M,Total Circulation,2017,130642
 Central,C01M,Print Materials,2017,309664
@@ -2605,6 +2795,8 @@ Central,C04M,Multi-format Materials,2017,NA
 Central,C05M,Other Physical Materials,2017,NA
 Central,C06M,Total Materials (Manually Input),2017,325519
 Central,C07M,Print Serial Subscriptions,2017,NA
+Central,NA,Public Internet Computers,2017,64
+Central,NA,Mobile Devices,2017,32
 Sun Ray,P01M,Population of the Legal Service Area,2017,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2017,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2017,NA
@@ -2615,13 +2807,13 @@ Sun Ray,P08M,Stations,2017,NA
 Sun Ray,P09M,Users of Public Internet Computers,2017,36240
 Sun Ray,NA,Wireless Sessions,2017,20132
 Sun Ray,P15M,Children's Circulation,2017,79394
-Sun Ray,P16M,Children's Library Programs,2017,NA
-Sun Ray,P17M,Children's Program Attendance,2017,NA
-Sun Ray,P18M,Yound Adult Library Programs,2017,NA
-Sun Ray,P19M,Young Adult Program Attendance,2017,NA
+Sun Ray,P16M,Children's Library Programs,2017,404
+Sun Ray,P17M,Children's Program Attendance,2017,6275
+Sun Ray,P18M,Yound Adult Library Programs,2017,94
+Sun Ray,P19M,Young Adult Program Attendance,2017,1241
 Sun Ray,P20M,Adult Circulation,2017,81575
-Sun Ray,P21M,Adult Library Programs,2017,NA
-Sun Ray,P22M,Adult Program Attendance,2017,NA
+Sun Ray,P21M,Adult Library Programs,2017,161
+Sun Ray,P22M,Adult Program Attendance,2017,2317
 Sun Ray,P23M,Other Circulation,2017,NA
 Sun Ray,P24M,Total Circulation,2017,160969
 Sun Ray,C01M,Print Materials,2017,48966
@@ -2631,6 +2823,8 @@ Sun Ray,C04M,Multi-format Materials,2017,NA
 Sun Ray,C05M,Other Physical Materials,2017,NA
 Sun Ray,C06M,Total Materials (Manually Input),2017,64590
 Sun Ray,C07M,Print Serial Subscriptions,2017,NA
+Sun Ray,NA,Public Internet Computers,2017,37
+Sun Ray,NA,Mobile Devices,2017,22
 West 7th Street Popular,P01M,Population of the Legal Service Area,2017,4620
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2017,3860
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2017,534
@@ -2659,6 +2853,8 @@ West 7th Street Popular,C04M,Multi-format Materials,2017,0
 West 7th Street Popular,C05M,Other Physical Materials,2017,7
 West 7th Street Popular,C06M,Total Materials (Manually Input),2017,10312
 West 7th Street Popular,C07M,Print Serial Subscriptions,2017,8
+West 7th Street Popular,NA,Public Internet Computers,2017,17
+West 7th Street Popular,NA,Mobile Devices,2017,1
 Arlington Hills,C01M,Print Materials,2016,22623
 Arlington Hills,C02M,Audio Materials,2016,NA
 Arlington Hills,C03M,Video Materials,2016,6840
@@ -2676,16 +2872,18 @@ Arlington Hills,P08M,Stations,2016,NA
 Arlington Hills,P09M,Annual Public Internet Computer Sessions,2016,36174
 Arlington Hills,P15M,Wireless Sessions,2016,36174
 Arlington Hills,P16M,Children's Circulation,2016,45764
-Arlington Hills,P17M,Children's Library Programs,2016,NA
-Arlington Hills,P18M,Children's Program Attendance,2016,NA
-Arlington Hills,P19M,Young Adult Library Programs,2016,NA
-Arlington Hills,P20M,Young Adult Program Attendance,2016,NA
+Arlington Hills,P17M,Children's Library Programs,2016,321
+Arlington Hills,P18M,Children's Program Attendance,2016,8047
+Arlington Hills,P19M,Young Adult Library Programs,2016,306
+Arlington Hills,P20M,Young Adult Program Attendance,2016,7261
 Arlington Hills,P21M,Adult Circulation,2016,30869
-Arlington Hills,P22M,Adult Library Programs,2016,NA
-Arlington Hills,P23M,Adult Program Attendance,2016,NA
+Arlington Hills,P22M,Adult Library Programs,2016,322
+Arlington Hills,P23M,Adult Program Attendance,2016,4478
 Arlington Hills,P24M,Other Circulation,2016,NA
 Arlington Hills,P25M,Total Circulation (Manually Input),2016,76633
 Arlington Hills,P26M,Total Programs (Manually Input),2016,NA
+Arlington Hills,NA,Public Internet Computers,2016,22
+Arlington Hills,NA,Mobile Devices,2016,43
 Dayton's Bluff,P01M,Population of the Legal Service Area,2016,NA
 Dayton's Bluff,P02aM,Registered Borrowers - Residents,2016,NA
 Dayton's Bluff,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2696,13 +2894,13 @@ Dayton's Bluff,P08M,Stations,2016,NA
 Dayton's Bluff,P09M,Annual Public Internet Computer Sessions,2016,16921
 Dayton's Bluff,NA,Wireless Sessions,2016,NA
 Dayton's Bluff,P15M,Children's Circulation,2016,25860
-Dayton's Bluff,P16M,Children's Library Programs,2016,NA
-Dayton's Bluff,P17M,Children's Program Attendance,2016,NA
-Dayton's Bluff,P18M,Young Adult Library Programs,2016,NA
-Dayton's Bluff,P19M,Young Adult Program Attendance,2016,NA
+Dayton's Bluff,P16M,Children's Library Programs,2016,207
+Dayton's Bluff,P17M,Children's Program Attendance,2016,3833
+Dayton's Bluff,P18M,Young Adult Library Programs,2016,6
+Dayton's Bluff,P19M,Young Adult Program Attendance,2016,301
 Dayton's Bluff,P20M,Adult Circulation,2016,30975
-Dayton's Bluff,P21M,Adult Library Programs,2016,NA
-Dayton's Bluff,P22M,Adult Program Attendance,2016,NA
+Dayton's Bluff,P21M,Adult Library Programs,2016,79
+Dayton's Bluff,P22M,Adult Program Attendance,2016,4729
 Dayton's Bluff,P23M,Other Circulation,2016,NA
 Dayton's Bluff,P24M,Total Circulation (Manually Input),2016,56835
 Dayton's Bluff,P25M,Total Programs (Manually Input),2016,NA
@@ -2714,6 +2912,8 @@ Dayton's Bluff,C04M,Multi-format Materials,2016,NA
 Dayton's Bluff,C05M,Other Physical Materials,2016,NA
 Dayton's Bluff,C06M,Total Materials (Manually Input),2016,34255
 Dayton's Bluff,C07M,Print Serial Subscriptions,2016,NA
+Dayton's Bluff,NA,Public Internet Computers,2016,27
+Dayton's Bluff,NA,Mobile Devices,2016,1
 Hamline Midway,P01M,Population of the Legal Service Area,2016,NA
 Hamline Midway,P02aM,Registered Borrowers - Residents,2016,NA
 Hamline Midway,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2721,15 +2921,15 @@ Hamline Midway,P02cM,Total Registered Borrowers,2016,10012
 Hamline Midway,P04M,Library Visits,2016,103012
 Hamline Midway,P06M,Reference Transactions,2016,NA
 Hamline Midway,P08M,Stations,2016,NA
-Hamline Midway,P09M,Users of Public Internet Computers,2016,NA
+Hamline Midway,P09M,Users of Public Internet Computers,2016,11912
 Hamline Midway,P15M,Children's Circulation,2016,5e4
-Hamline Midway,P16M,Children's Library Programs,2016,NA
-Hamline Midway,P17M,Children's Program Attendance,2016,NA
-Hamline Midway,P18M,Yound Adult Library Programs,2016,NA
-Hamline Midway,P19M,Young Adult Program Attendance,2016,NA
+Hamline Midway,P16M,Children's Library Programs,2016,179
+Hamline Midway,P17M,Children's Program Attendance,2016,3757
+Hamline Midway,P18M,Young Adult Library Programs,2016,20
+Hamline Midway,P19M,Young Adult Program Attendance,2016,158
 Hamline Midway,P20M,Adult Circulation,2016,50265
-Hamline Midway,P21M,Adult Library Programs,2016,NA
-Hamline Midway,P22M,Adult Program Attendance,2016,NA
+Hamline Midway,P21M,Adult Library Programs,2016,190
+Hamline Midway,P22M,Adult Program Attendance,2016,3635
 Hamline Midway,P23M,Other Circulation,2016,NA
 Hamline Midway,P24M,Total Circulation,2016,100265
 Hamline Midway,NA,Total Programs (Manually Input),2016,NA
@@ -2742,6 +2942,8 @@ Hamline Midway,C05M,Other Physical Materials,2016,NA
 Hamline Midway,C06M,Total Materials (Manually Input),2016,28733
 Hamline Midway,C07M,Print Serial Subscriptions,2016,NA
 Hamline Midway,NA,Wireless Sessions,2016,NA
+Hamline Midway,NA,Public Internet Computers,2016,16
+Hamline Midway,NA,Mobile Devices,2016,1
 Hayden Heights,P01M,Population of the Legal Service Area,2016,NA
 Hayden Heights,P02aM,Registered Borrowers - Residents,2016,NA
 Hayden Heights,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2752,13 +2954,13 @@ Hayden Heights,P08M,Stations,2016,NA
 Hayden Heights,P09M,Users of Public Internet Computers,2016,19081
 Hayden Heights,NA,Wireless Sessions,2016,NA
 Hayden Heights,P15M,Children's Circulation,2016,44074
-Hayden Heights,P16M,Children's Library Programs,2016,NA
-Hayden Heights,P17M,Children's Program Attendance,2016,NA
-Hayden Heights,P18M,Yound Adult Library Programs,2016,NA
-Hayden Heights,P19M,Young Adult Program Attendance,2016,NA
+Hayden Heights,P16M,Children's Library Programs,2016,190
+Hayden Heights,P17M,Children's Program Attendance,2016,3331
+Hayden Heights,P18M,Yound Adult Library Programs,2016,2
+Hayden Heights,P19M,Young Adult Program Attendance,2016,15
 Hayden Heights,P20M,Adult Circulation,2016,38944
-Hayden Heights,P21M,Adult Library Programs,2016,NA
-Hayden Heights,P22M,Adult Program Attendance,2016,NA
+Hayden Heights,P21M,Adult Library Programs,2016,68
+Hayden Heights,P22M,Adult Program Attendance,2016,4563
 Hayden Heights,P23M,Other Circulation,2016,NA
 Hayden Heights,P24M,Total Circulation,2016,83018
 Hayden Heights,NA,Total Programs (Manually Input),2016,NA
@@ -2770,6 +2972,8 @@ Hayden Heights,C04M,Multi-format Materials,2016,NA
 Hayden Heights,C05M,Other Physical Materials,2016,NA
 Hayden Heights,C06M,Total Materials (Manually Input),2016,43952
 Hayden Heights,C07M,Print Serial Subscriptions,2016,NA
+Hayden Heights,NA,Public Internet Computers,2016,22
+Hayden Heights,NA,Mobile Devices,2016,7
 Highland,P01M,Population of the Legal Service Area,2016,NA
 Highland,P02aM,Registered Borrowers - Residents,2016,NA
 Highland,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2780,13 +2984,13 @@ Highland,P08M,Stations,2016,NA
 Highland,P09M,Users of Public Internet Computers,2016,31270
 Highland,NA,Wireless Sessions,2016,NA
 Highland,P15M,Children's Circulation,2016,187223
-Highland,P16M,Children's Library Programs,2016,NA
-Highland,P17M,Children's Program Attendance,2016,NA
-Highland,P18M,Yound Adult Library Programs,2016,NA
-Highland,P19M,Young Adult Program Attendance,2016,NA
+Highland,P16M,Children's Library Programs,2016,266
+Highland,P17M,Children's Program Attendance,2016,7959
+Highland,P18M,Young Adult Library Programs,2016,130
+Highland,P19M,Young Adult Program Attendance,2016,1214
 Highland,P20M,Adult Circulation,2016,187874
-Highland,P21M,Adult Library Programs,2016,NA
-Highland,P22M,Adult Program Attendance,2016,NA
+Highland,P21M,Adult Library Programs,2016,108
+Highland,P22M,Adult Program Attendance,2016,950
 Highland,P23M,Other Circulation,2016,NA
 Highland,P24M,Total Circulation,2016,375097
 Highland,NA,Total Programs (Manually Input),2016,NA
@@ -2798,6 +3002,8 @@ Highland,C04M,Multi-format Materials,2016,NA
 Highland,C05M,Other Physical Materials,2016,NA
 Highland,C06M,Total Materials (Manually Input),2016,72054
 Highland,C07M,Print Serial Subscriptions,2016,NA
+Highland,NA,Public Internet Computers,2016,38
+Highland,NA,Mobile Devices,2016,29
 Merriam Park,P01M,Population of the Legal Service Area,2016,NA
 Merriam Park,P02aM,Registered Borrowers - Residents,2016,NA
 Merriam Park,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2805,16 +3011,16 @@ Merriam Park,P02cM,Total Registered Borrowers (Manually Input),2016,27083
 Merriam Park,P04M,Library Visits,2016,151182
 Merriam Park,P06M,Reference Transactions,2016,NA
 Merriam Park,P08M,Stations,2016,NA
-Merriam Park,P09M,Users of Public Internet Computers,2016,NA
+Merriam Park,P09M,Users of Public Internet Computers,2016,17955
 Merriam Park,P15M,Children's Circulation,2016,116109
 Merriam Park,NA,Wireless Sessions,2016,NA
-Merriam Park,P16M,Children's Library Programs,2016,NA
-Merriam Park,P17M,Children's Program Attendance,2016,NA
-Merriam Park,P18M,Yound Adult Library Programs,2016,NA
-Merriam Park,P19M,Young Adult Program Attendance,2016,NA
+Merriam Park,P16M,Children's Library Programs,2016,94
+Merriam Park,P17M,Children's Program Attendance,2016,3617
+Merriam Park,P18M,Yound Adult Library Programs,2016,3
+Merriam Park,P19M,Young Adult Program Attendance,2016,72
 Merriam Park,P20M,Adult Circulation,2016,192699
-Merriam Park,P21M,Adult Library Programs,2016,NA
-Merriam Park,P22M,Adult Program Attendance,2016,NA
+Merriam Park,P21M,Adult Library Programs,2016,113
+Merriam Park,P22M,Adult Program Attendance,2016,1477
 Merriam Park,P23M,Other Circulation,2016,NA
 Merriam Park,P24M,Total Circulation,2016,308808
 Merriam Park,NA,Total Programs (Manually Input),2016,NA
@@ -2826,6 +3032,8 @@ Merriam Park,C04M,Multi-format Materials,2016,NA
 Merriam Park,C05M,Other Physical Materials,2016,NA
 Merriam Park,C06M,Total Materials (Manually Input),2016,72001
 Merriam Park,C07M,Print Serial Subscriptions,2016,NA
+Merriam Park,NA,Public Internet Computers,2016,19
+Merriam Park,NA,Mobile Devices,2016,1
 Rice Street,P01M,Population of the Legal Service Area,2016,NA
 Rice Street,P02aM,Registered Borrowers - Residents,2016,NA
 Rice Street,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2836,13 +3044,13 @@ Rice Street,P08M,Stations,2016,NA
 Rice Street,P09M,Users of Public Internet Computers,2016,29568
 Rice Street,NA,Wireless Sessions,2016,NA
 Rice Street,P15M,Children's Circulation,2016,39700
-Rice Street,P16M,Children's Library Programs,2016,NA
-Rice Street,P17M,Children's Program Attendance,2016,NA
-Rice Street,P18M,Yound Adult Library Programs,2016,NA
-Rice Street,P19M,Young Adult Program Attendance,2016,NA
+Rice Street,P16M,Children's Library Programs,2016,263
+Rice Street,P17M,Children's Program Attendance,2016,3746
+Rice Street,P18M,Yound Adult Library Programs,2016,98
+Rice Street,P19M,Young Adult Program Attendance,2016,927
 Rice Street,P20M,Adult Circulation,2016,43273
-Rice Street,P21M,Adult Library Programs,2016,NA
-Rice Street,P22M,Adult Program Attendance,2016,NA
+Rice Street,P21M,Adult Library Programs,2016,226
+Rice Street,P22M,Adult Program Attendance,2016,952
 Rice Street,P23M,Other Circulation,2016,NA
 Rice Street,P24M,Total Circulation,2016,82973
 Rice Street,NA,Total Programs (Manually Input),2016,NA
@@ -2854,6 +3062,8 @@ Rice Street,C04M,Multi-format Materials,2016,NA
 Rice Street,C05M,Other Physical Materials,2016,NA
 Rice Street,C06M,Total Materials (Manually Input),2016,45200
 Rice Street,C07M,Print Serial Subscriptions,2016,NA
+Rice Street,NA,Public Internet Computers,2016,38
+Rice Street,NA,Mobile Devices,2016,8
 Riverview,P01M,Population of the Legal Service Area,2016,NA
 Riverview,P02aM,Registered Borrowers - Residents,2016,NA
 Riverview,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2864,13 +3074,13 @@ Riverview,P08M,Stations,2016,NA
 Riverview,P09M,Users of Public Internet Computers,2016,11095
 Riverview,NA,Wireless Sessions,2016,NA
 Riverview,P15M,Children's Circulation,2016,32202
-Riverview,P16M,Children's Library Programs,2016,NA
-Riverview,P17M,Children's Program Attendance,2016,NA
-Riverview,P18M,Yound Adult Library Programs,2016,NA
-Riverview,P19M,Young Adult Program Attendance,2016,NA
+Riverview,P16M,Children's Library Programs,2016,173
+Riverview,P17M,Children's Program Attendance,2016,2936
+Riverview,P18M,Yound Adult Library Programs,2016,62
+Riverview,P19M,Young Adult Program Attendance,2016,1101
 Riverview,P20M,Adult Circulation,2016,31516
-Riverview,P21M,Adult Library Programs,2016,NA
-Riverview,P22M,Adult Program Attendance,2016,NA
+Riverview,P21M,Adult Library Programs,2016,74
+Riverview,P22M,Adult Program Attendance,2016,1079
 Riverview,P23M,Other Circulation,2016,NA
 Riverview,P24M,Total Circulation,2016,63718
 Riverview,NA,Total Programs (Manually Input),2016,NA
@@ -2882,6 +3092,8 @@ Riverview,C04M,Multi-format Materials,2016,NA
 Riverview,C05M,Other Physical Materials,2016,NA
 Riverview,C06M,Total Materials (Manually Input),2016,30201
 Riverview,C07M,Print Serial Subscriptions,2016,NA
+Riverview,NA,Public Internet Computers,2016,15
+Riverview,NA,Mobile Devices,2016,1
 St. Anthony Park,P01M,Population of the Legal Service Area,2016,NA
 St. Anthony Park,P02aM,Registered Borrowers - Residents,2016,NA
 St. Anthony Park,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2892,13 +3104,13 @@ St. Anthony Park,P08M,Stations,2016,NA
 St. Anthony Park,P09M,Users of Public Internet Computers,2016,6834
 St. Anthony Park,NA,Wireless Sessions,2016,NA
 St. Anthony Park,P15M,Children's Circulation,2016,72936
-St. Anthony Park,P16M,Children's Library Programs,2016,NA
-St. Anthony Park,P17M,Children's Program Attendance,2016,NA
-St. Anthony Park,P18M,Yound Adult Library Programs,2016,NA
-St. Anthony Park,P19M,Young Adult Program Attendance,2016,NA
+St. Anthony Park,P16M,Children's Library Programs,2016,293
+St. Anthony Park,P17M,Children's Program Attendance,2016,13964
+St. Anthony Park,P18M,Yound Adult Library Programs,2016,18
+St. Anthony Park,P19M,Young Adult Program Attendance,2016,186
 St. Anthony Park,P20M,Adult Circulation,2016,60373
-St. Anthony Park,P21M,Adult Library Programs,2016,NA
-St. Anthony Park,P22M,Adult Program Attendance,2016,NA
+St. Anthony Park,P21M,Adult Library Programs,2016,247
+St. Anthony Park,P22M,Adult Program Attendance,2016,2994
 St. Anthony Park,P23M,Other Circulation,2016,NA
 St. Anthony Park,P24M,Total Circulation,2016,133309
 St. Anthony Park,C01M,Print Materials,2016,31355
@@ -2908,6 +3120,8 @@ St. Anthony Park,C04M,Multi-format Materials,2016,NA
 St. Anthony Park,C05M,Other Physical Materials,2016,NA
 St. Anthony Park,C06M,Total Materials (Manually Input),2016,38691
 St. Anthony Park,C07M,Print Serial Subscriptions,2016,NA
+St. Anthony Park,NA,Public Internet Computers,2016,16
+St. Anthony Park,NA,Mobile Devices,2016,1
 St. Paul Bookmobile,P01M,Population of the Legal Service Area,2016,NA
 St. Paul Bookmobile,P02aM,Registered Borrowers - Residents,2016,NA
 St. Paul Bookmobile,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2917,13 +3131,13 @@ St. Paul Bookmobile,P06M,Reference Transactions,2016,NA
 St. Paul Bookmobile,P08M,Stations,2016,NA
 St. Paul Bookmobile,P09M,Users of Public Internet Computers,2016,NA
 St. Paul Bookmobile,P15M,Children's Circulation,2016,67935
-St. Paul Bookmobile,P16M,Children's Library Programs,2016,NA
-St. Paul Bookmobile,P17M,Children's Program Attendance,2016,NA
-St. Paul Bookmobile,P18M,Young Adult Library Programs,2016,NA
-St. Paul Bookmobile,P19M,Young Adult Program Attendance,2016,NA
+St. Paul Bookmobile,P16M,Children's Library Programs,2016,1451
+St. Paul Bookmobile,P17M,Children's Program Attendance,2016,33816
+St. Paul Bookmobile,P18M,Young Adult Library Programs,2016,0
+St. Paul Bookmobile,P19M,Young Adult Program Attendance,2016,0
 St. Paul Bookmobile,P20M,Adult Circulation,2016,40723
-St. Paul Bookmobile,P21M,Adult Library Programs,2016,NA
-St. Paul Bookmobile,P22M,Adult Program Attendance,2016,NA
+St. Paul Bookmobile,P21M,Adult Library Programs,2016,31
+St. Paul Bookmobile,P22M,Adult Program Attendance,2016,298
 St. Paul Bookmobile,P23M,Other Circulation,2016,NA
 St. Paul Bookmobile,P24M,Total Circulation,2016,108658
 St. Paul Bookmobile,NA,Total Programs,2016,NA
@@ -2934,6 +3148,8 @@ St. Paul Bookmobile,C04M,Multi-format Materials,2016,NA
 St. Paul Bookmobile,C05M,Other Physical Materials,2016,NA
 St. Paul Bookmobile,C06M,Total Materials (Manually Input),2016,19e3
 St. Paul Bookmobile,C07M,Print Serial Subscriptions,2016,NA
+St. Paul Bookmobile,NA,Public Internet Computers,2016,0
+St. Paul Bookmobile,NA,Mobile Devices,2016,2
 Rondo Community Outreach,P01M,Population of the Legal Service Area,2016,NA
 Rondo Community Outreach,P02aM,Registered Borrowers - Residents,2016,NA
 Rondo Community Outreach,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2943,13 +3159,13 @@ Rondo Community Outreach,P06M,Reference Transactions,2016,NA
 Rondo Community Outreach,P08M,Stations,2016,NA
 Rondo Community Outreach,P09M,Users of Public Internet Computers,2016,56141
 Rondo Community Outreach,P15M,Children's Circulation,2016,57043
-Rondo Community Outreach,P16M,Children's Library Programs,2016,NA
-Rondo Community Outreach,P17M,Children's Program Attendance,2016,NA
-Rondo Community Outreach,P18M,Yound Adult Library Programs,2016,NA
-Rondo Community Outreach,P19M,Young Adult Program Attendance,2016,NA
+Rondo Community Outreach,P16M,Children's Library Programs,2016,239
+Rondo Community Outreach,P17M,Children's Program Attendance,2016,3472
+Rondo Community Outreach,P18M,Yound Adult Library Programs,2016,42
+Rondo Community Outreach,P19M,Young Adult Program Attendance,2016,427
 Rondo Community Outreach,P20M,Adult Circulation,2016,69646
-Rondo Community Outreach,P21M,Adult Library Programs,2016,NA
-Rondo Community Outreach,P22M,Adult Program Attendance,2016,NA
+Rondo Community Outreach,P21M,Adult Library Programs,2016,469
+Rondo Community Outreach,P22M,Adult Program Attendance,2016,7158
 Rondo Community Outreach,P23M,Other Circulation,2016,NA
 Rondo Community Outreach,P24M,Total Circulation,2016,126689
 Rondo Community Outreach,C01M,Print Materials,2016,72825
@@ -2959,6 +3175,8 @@ Rondo Community Outreach,C04M,Multi-format Materials,2016,NA
 Rondo Community Outreach,C05M,Other Physical Materials,2016,NA
 Rondo Community Outreach,C06M,Total Materials (Manually Input),2016,92382
 Rondo Community Outreach,C07M,Print Serial Subscriptions,2016,NA
+Rondo Community Outreach,NA,Public Internet Computers,2016,80
+Rondo Community Outreach,NA,Mobile Devices,2016,8
 Central,P01M,Population of the Legal Service Area,2016,NA
 Central,P02aM,Registered Borrowers - Residents,2016,NA
 Central,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2969,13 +3187,13 @@ Central,P08M,Stations,2016,NA
 Central,P09M,Users of Public Internet Computers,2016,31792
 Central,NA,Wireless Sessions,2016,NA
 Central,P15M,Children's Circulation,2016,45893
-Central,P16M,Children's Library Programs,2016,NA
-Central,P17M,Children's Program Attendance,2016,NA
-Central,P18M,Yound Adult Library Programs,2016,NA
-Central,P19M,Young Adult Program Attendance,2016,NA
+Central,P16M,Children's Library Programs,2016,265
+Central,P17M,Children's Program Attendance,2016,7154
+Central,P18M,Young Adult Library Programs,2016,79
+Central,P19M,Young Adult Program Attendance,2016,1167
 Central,P20M,Adult Circulation,2016,NA
-Central,P21M,Adult Library Programs,2016,NA
-Central,P22M,Adult Program Attendance,2016,NA
+Central,P21M,Adult Library Programs,2016,209
+Central,P22M,Adult Program Attendance,2016,3883
 Central,P23M,Other Circulation,2016,NA
 Central,P24M,Total Circulation,2016,132693
 Central,C01M,Print Materials,2016,315309
@@ -2985,6 +3203,8 @@ Central,C04M,Multi-format Materials,2016,NA
 Central,C05M,Other Physical Materials,2016,NA
 Central,C06M,Total Materials (Manually Input),2016,331340
 Central,C07M,Print Serial Subscriptions,2016,NA
+Central,NA,Public Internet Computers,2016,64
+Central,NA,Mobile Devices,2016,31
 Sun Ray,P01M,Population of the Legal Service Area,2016,NA
 Sun Ray,P02aM,Registered Borrowers - Residents,2016,NA
 Sun Ray,P02bM,Registered Borrowers - Reciprocal,2016,NA
@@ -2995,13 +3215,13 @@ Sun Ray,P08M,Stations,2016,NA
 Sun Ray,P09M,Users of Public Internet Computers,2016,38139
 Sun Ray,NA,Wireless Sessions,2016,NA
 Sun Ray,P15M,Children's Circulation,2016,89711
-Sun Ray,P16M,Children's Library Programs,2016,NA
-Sun Ray,P17M,Children's Program Attendance,2016,NA
-Sun Ray,P18M,Yound Adult Library Programs,2016,NA
-Sun Ray,P19M,Young Adult Program Attendance,2016,NA
+Sun Ray,P16M,Children's Library Programs,2016,325
+Sun Ray,P17M,Children's Program Attendance,2016,4175
+Sun Ray,P18M,Yound Adult Library Programs,2016,112
+Sun Ray,P19M,Young Adult Program Attendance,2016,2050
 Sun Ray,P20M,Adult Circulation,2016,97941
-Sun Ray,P21M,Adult Library Programs,2016,NA
-Sun Ray,P22M,Adult Program Attendance,2016,NA
+Sun Ray,P21M,Adult Library Programs,2016,168
+Sun Ray,P22M,Adult Program Attendance,2016,2149
 Sun Ray,P23M,Other Circulation,2016,NA
 Sun Ray,P24M,Total Circulation,2016,187652
 Sun Ray,C01M,Print Materials,2016,51054
@@ -3011,6 +3231,8 @@ Sun Ray,C04M,Multi-format Materials,2016,NA
 Sun Ray,C05M,Other Physical Materials,2016,NA
 Sun Ray,C06M,Total Materials (Manually Input),2016,67015
 Sun Ray,C07M,Print Serial Subscriptions,2016,NA
+Sun Ray,NA,Public Internet Computers,2016,37
+Sun Ray,NA,Mobile Devices,2016,22
 West 7th Street Popular,P01M,Population of the Legal Service Area,2016,4326
 West 7th Street Popular,P02aM,Registered Borrowers - Residents,2016,3999
 West 7th Street Popular,P02bM,Registered Borrowers - Reciprocal,2016,539
@@ -3039,3 +3261,5 @@ West 7th Street Popular,C04M,Multi-format Materials,2016,0
 West 7th Street Popular,C05M,Other Physical Materials,2016,7
 West 7th Street Popular,C06M,Total Materials (Manually Input),2016,9601
 West 7th Street Popular,C07M,Print Serial Subscriptions,2016,13
+West 7th Street Popular,NA,Public Internet Computers,2016,17
+West 7th Street Popular,NA,Mobile Devices,2016,1
